@@ -18,7 +18,7 @@
     <nav class="navbar navbar-expand-lg index_section_navbar">
         <div class="container">
             <a class="navbar-brand" href="#">
-                <img src="./assets/img/NAYANAGROUP.png" class="index_section_logo" alt="Logo">
+                <img src="./assets/img/logo.png" class="index_section_logo" alt="Logo">
             </a>
 
             <button class="navbar-toggler bg-light" type="button" data-bs-toggle="collapse" data-bs-target="#index_section_nav">
