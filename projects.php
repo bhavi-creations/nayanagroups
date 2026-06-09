@@ -189,8 +189,8 @@
                     </div>
 
                     <div class="col-lg-4 text-lg-end">
-                        <a href="#" class="projects_section_primary_btn">
-                            DISCUSS YOUR PROJECT <i class="bi bi-arrow-right"></i>
+                        <a href="contact-us.php" class="projects_section_primary_btn">
+                            Contact us <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>
                 </div>

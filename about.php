@@ -217,9 +217,9 @@
           A passionate team of architects, designers and engineers committed to excellence in every project.
         </p>
 
-        <a href="#" class="about_section_team_btn">
+        <!-- <a href="#" class="about_section_team_btn">
           MEET THE TEAM <i class="bi bi-arrow-right"></i>
-        </a>
+        </a> -->
       </div>
 
       <div class="col-lg-9">

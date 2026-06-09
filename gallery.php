@@ -173,7 +173,7 @@
         </div>
 
         <div class="col-lg-4 text-lg-end">
-          <a href="#" class="gallery_section_btn">SHARE YOUR PROJECT <i class="bi bi-arrow-right"></i></a>
+          <a href="contact-us.php" class="gallery_section_btn">Contact Us <i class="bi bi-arrow-right"></i></a>
         </div>
       </div>
     </div>

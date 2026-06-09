@@ -6,8 +6,8 @@
             <h1 class="index_section_hero_title">Architecture that Inspires Living.</h1>
             <p class="index_section_hero_text">We turn ideas into timeless spaces with creativity, precision and passion.</p>
 
-            <a href="#" class="index_section_primary_btn">EXPLORE PROJECTS <i class="bi bi-arrow-right"></i></a>
-            <a href="#" class="index_section_outline_btn">OUR SERVICES</a>
+            <a href="projects.php" class="index_section_primary_btn">EXPLORE PROJECTS <i class="bi bi-arrow-right"></i></a>
+            <a href="services.php" class="index_section_outline_btn">OUR SERVICES</a>
         </div>
 
         <div class="index_section_slider_arrows">
@@ -63,7 +63,7 @@
                     <div class="index_section_small_title">FEATURED PROJECTS</div>
                     <h2 class="index_section_title">Spaces that<br>speak for<br>themselves.</h2>
                 </div>
-                <a href="#" class="index_section_view_btn d-none d-md-inline-block">VIEW ALL PROJECTS <i class="bi bi-arrow-right ms-2"></i></a>
+                <a href="projects.php" class="index_section_view_btn d-none d-md-inline-block">VIEW ALL PROJECTS <i class="bi bi-arrow-right ms-2"></i></a>
             </div>
 
             <div class="row g-4">

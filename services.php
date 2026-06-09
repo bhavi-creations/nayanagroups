@@ -13,8 +13,8 @@
             From concept to completion, we provide comprehensive architecture and construction services tailored to your vision.
         </p>
 
-        <a href="#" class="service_section_primary_btn">
-            LET’S BUILD TOGETHER <i class="bi bi-arrow-right"></i>
+        <a href="contact-us.php" class="service_section_primary_btn">
+            Contact Us <i class="bi bi-arrow-right"></i>
         </a>
     </div>
 </section>
@@ -181,11 +181,11 @@
 
                 <div class="col-lg-6">
                     <div class="d-flex flex-wrap justify-content-lg-end gap-4">
-                        <a href="#" class="service_section_primary_btn">
+                        <!-- <a href="#" class="service_section_primary_btn">
                             SCHEDULE A CONSULTATION <i class="bi bi-arrow-right"></i>
-                        </a>
+                        </a> -->
 
-                        <a href="#" class="service_section_outline_btn">
+                        <a href="contact-us.php" class="service_section_outline_btn">
                             CONTACT US <i class="bi bi-arrow-right"></i>
                         </a>
                     </div>

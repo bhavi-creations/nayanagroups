@@ -17,24 +17,24 @@
       <div class="col-lg-2">
         <h4 class="gallery_section_footer_title">QUICK LINKS</h4>
         <ul>
-          <li><a href="#">Home</a></li>
-          <li><a href="#">About Us</a></li>
-          <li><a href="#">Projects</a></li>
-          <li><a href="#">Services</a></li>
-          <li><a href="#">Gallery</a></li>
-          <li><a href="#">Contact</a></li>
+          <li><a href="index.php">Home</a></li>
+          <li><a href="about.php">About Us</a></li>
+          <li><a href="projects.php">Projects</a></li>
+          <li><a href="services.php">Services</a></li>
+          <li><a href="gallery.php">Gallery</a></li>
+          <li><a href="contact-us.php">Contact</a></li>
         </ul>
       </div>
 
       <div class="col-lg-2">
         <h4 class="gallery_section_footer_title">OUR SERVICES</h4>
         <ul>
-          <li><a href="#">Architecture</a></li>
-          <li><a href="#">Interior Design</a></li>
-          <li><a href="#">Construction</a></li>
-          <li><a href="#">Project Management</a></li>
-          <li><a href="#">Renovation</a></li>
-          <li><a href="#">Landscape Design</a></li>
+          <li><a href="services.php">Architecture</a></li>
+          <li><a href="services.php">Interior Design</a></li>
+          <li><a href="services.php">Construction</a></li>
+          <li><a href="services.php">Project Management</a></li>
+          <li><a href="services.php">Renovation</a></li>
+          <li><a href="services.php">Landscape Design</a></li>
         </ul>
       </div>
 
