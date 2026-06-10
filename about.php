@@ -13,17 +13,16 @@
           <div class="about_section_small_title">ABOUT US</div>
 
           <h1 class="about_section_title">
-            Building More Than Structures,<br>
-            <span>We Build Trust.</span>
+
+            NAYANA Groups: Elevating Design,<br>
+            <span>Beyond Imagination.</span>
           </h1>
 
           <p class="about_section_text">
-            Nayana Group is a multidisciplinary architecture and construction firm driven by passion,
-            precision, and a commitment to excellence. From concept to creation, we design and build
-            spaces that inspire living and stand the test of time.
+            NAYANA GROUP is a premier architectural practice committed to transforming spac novative and sustainable design solutions with a deep understanding of the relationship t built environment and its users, we craft spaces that are not only aesthetically pleasi functional and environmentally responsible
           </p>
 
-          <div class="about_section_signature">Nayana Reddy</div>
+          <div class="about_section_signature">Nayana Satya Reddy</div>
           <div class="about_section_designation">Founder & Managing Director</div>
         </div>
       </div>
@@ -34,7 +33,7 @@
             <i class="bi bi-bank"></i>
             <div>
               <h4>Innovative Design</h4>
-              <p>Thoughtful, creative and functional spaces.</p>
+              <p>Creative solutions with timeless appeal.</p>
             </div>
           </div>
 
@@ -42,7 +41,7 @@
             <i class="bi bi-building"></i>
             <div>
               <h4>Quality Construction</h4>
-              <p>Premium materials and precise workmanship.</p>
+              <p>Built with precision and excellence.</p>
             </div>
           </div>
 
@@ -50,7 +49,7 @@
             <i class="bi bi-clock-history"></i>
             <div>
               <h4>Timely Delivery</h4>
-              <p>On-time completion, every time.</p>
+              <p>Projects completed on schedule, always.</p>
             </div>
           </div>
 
@@ -58,7 +57,7 @@
             <i class="bi bi-person-check"></i>
             <div>
               <h4>Client First Approach</h4>
-              <p>Your vision, our priority.</p>
+              <p>Your vision guides every decision.</p>
             </div>
           </div>
         </div>
@@ -286,4 +285,5 @@
   </div>
 </section>
 
-  <?php include 'footer.php'; ?>
+
+<?php include 'footer.php'; ?>
