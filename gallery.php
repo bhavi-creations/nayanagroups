@@ -38,10 +38,10 @@
 
       <div class="col-lg-4 gallery_section_item" data-category="residential villas">
         <div class="gallery_section_card gallery_section_card_large">
-          <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80">
+          <img src="./assets/img/Resedential.jfif">
           <div class="gallery_section_overlay">
-            <h4>Serenity Villa</h4>
-            <p><i class="bi bi-geo-alt"></i> Hyderabad, India</p>
+            <h4>Residential</h4>
+            <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
           </div>
           <div class="gallery_section_plus">+</div>
         </div>
@@ -51,10 +51,10 @@
         <div class="row g-3">
           <div class="col-12 gallery_section_item" data-category="interiors residential">
             <div class="gallery_section_card gallery_section_card_small">
-              <img src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=80">
+              <img src="./assets/img/commercial-building.jpg">
               <div class="gallery_section_overlay">
-                <h4>Luxury Living Room</h4>
-                <p><i class="bi bi-geo-alt"></i> Hyderabad, India</p>
+                <h4>Commercial</h4>
+                <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
               </div>
               <div class="gallery_section_plus">+</div>
             </div>
@@ -62,10 +62,10 @@
 
           <div class="col-12 gallery_section_item" data-category="interiors residential">
             <div class="gallery_section_card gallery_section_card_small">
-              <img src="https://images.unsplash.com/photo-1600210491369-e753d80a41f3?auto=format&fit=crop&w=900&q=80">
+              <img src="./assets/img/Interior.jpg">
               <div class="gallery_section_overlay">
-                <h4>Modern Dining</h4>
-                <p><i class="bi bi-geo-alt"></i> Hyderabad, India</p>
+                <h4>Interiors</h4>
+                <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
               </div>
               <div class="gallery_section_plus">+</div>
             </div>
@@ -77,10 +77,10 @@
         <div class="row g-3">
           <div class="col-12 gallery_section_item" data-category="commercial">
             <div class="gallery_section_card gallery_section_card_small">
-              <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=80">
+              <img src="./assets/img/Villas.jpg">
               <div class="gallery_section_overlay">
-                <h4>Vertex Corporate House</h4>
-                <p><i class="bi bi-geo-alt"></i> Bangalore, India</p>
+                <h4>Villas</h4>
+                <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
               </div>
               <div class="gallery_section_plus">+</div>
             </div>
@@ -88,10 +88,10 @@
 
           <div class="col-12 gallery_section_item" data-category="landscape">
             <div class="gallery_section_card gallery_section_card_small">
-              <img src="https://images.unsplash.com/photo-1604014238170-4def1e4e6fcf?auto=format&fit=crop&w=900&q=80">
+              <img src="./assets/img/Landscape.jfif">
               <div class="gallery_section_overlay">
-                <h4>The Green Courtyard</h4>
-                <p><i class="bi bi-geo-alt"></i> Hyderabad, India</p>
+                <h4>Landscape</h4>
+                <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
               </div>
               <div class="gallery_section_plus">+</div>
             </div>
@@ -101,32 +101,43 @@
 
       <div class="col-lg-4 gallery_section_item" data-category="commercial interiors">
         <div class="gallery_section_card gallery_section_card_small">
-          <img src="https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=900&q=80">
-          <div class="gallery_section_overlay">
-            <h4>Creative Workspace</h4>
-            <p><i class="bi bi-geo-alt"></i> Hyderabad, India</p>
-          </div>
-          <div class="gallery_section_plus">+</div>
+           <img src="./assets/img/Residential.jpg">
+           <div class="gallery_section_overlay">
+              <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
+           </div>
+           <div class="gallery_section_overlay">
+             <h4>Residential</h4>
+             <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
+           </div>
+           <div class="gallery_section_plus">+</div>
         </div>
       </div>
+      
 
       <div class="col-lg-4 gallery_section_item" data-category="interiors residential">
         <div class="gallery_section_card gallery_section_card_small">
-          <img src="https://images.unsplash.com/photo-1616594039964-ae9021a400a0?auto=format&fit=crop&w=900&q=80">
-          <div class="gallery_section_overlay">
-            <h4>Premium Bedroom</h4>
-            <p><i class="bi bi-geo-alt"></i> Hyderabad, India</p>
-          </div>
+          <img src="./assets/img/Commercial_building.jpg">
+           <div class="gallery_section_overlay">
+              <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
+           </div>
+           <div class="gallery_section_overlay">
+             <h4>Commercial</h4>
+             <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
+           </div>
+          <!-- <div class="gallery_section_overlay">
+            <h4>Commercial</h4>
+            <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
+          </div> -->
           <div class="gallery_section_plus">+</div>
         </div>
       </div>
 
       <div class="col-lg-4 gallery_section_item" data-category="residential villas">
         <div class="gallery_section_card gallery_section_card_small">
-          <img src="https://images.unsplash.com/photo-1600607687644-c7171b42498b?auto=format&fit=crop&w=900&q=80">
+          <img src="./assets/img/Interior1.jpg">
           <div class="gallery_section_overlay">
-            <h4>Oakridge Villa</h4>
-            <p><i class="bi bi-geo-alt"></i> Hyderabad, India</p>
+            <h4>Interiors</h4>
+            <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
           </div>
           <div class="gallery_section_plus">+</div>
         </div>
@@ -134,10 +145,10 @@
 
       <div class="col-lg-4 gallery_section_item" data-category="interiors">
         <div class="gallery_section_card gallery_section_card_small">
-          <img src="https://images.unsplash.com/photo-1600566752355-35792bedcfea?auto=format&fit=crop&w=900&q=80">
+          <img src="./assets/img/Villas1.jpg">
           <div class="gallery_section_overlay">
-            <h4>Elegant Bathroom</h4>
-            <p><i class="bi bi-geo-alt"></i> Hyderabad, India</p>
+            <h4>Villas</h4>
+            <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
           </div>
           <div class="gallery_section_plus">+</div>
         </div>
@@ -145,10 +156,10 @@
 
       <div class="col-lg-8 gallery_section_item" data-category="residential villas landscape">
         <div class="gallery_section_card gallery_section_card_wide">
-          <img src="https://images.unsplash.com/photo-1600607688969-a5bfcd646154?auto=format&fit=crop&w=1200&q=80">
+          <img src="./assets/img/Landscape1.jpg">
           <div class="gallery_section_overlay">
-            <h4>Infinity Retreat</h4>
-            <p><i class="bi bi-geo-alt"></i> Goa, India</p>
+            <h4>Landscape</h4>
+            <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
           </div>
           <div class="gallery_section_plus">+</div>
         </div>

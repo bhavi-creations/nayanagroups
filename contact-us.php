@@ -7,17 +7,17 @@
     <div class="contact_section_small_title">Contact Us</div>
 
     <h1 class="contact_section_hero_title">
-      Let’s build<br>
-      <span>something<br>extraordinary.</span>
+      Bring<br>
+      <span>Your Vision<br>to Life</span>
     </h1>
 
     <p class="contact_section_hero_text">
-      We’d love to hear about your ideas and help turn them into reality.
+     Let's create inspiring spaces together with innovative design and expert execution.
     </p>
 
     <div class="contact_section_hero_info">
-      <span><i class="bi bi-telephone"></i> +91 98765 43210</span>
-      <span><i class="bi bi-envelope"></i> info@nayanagroup.com</span>
+      <span><i class="bi bi-telephone"></i> +91 96888 87888</span>
+      <span><i class="bi bi-envelope"></i> nayanagroup21@gmail.com</span>
     </div>
   </div>
 </section>
@@ -33,8 +33,8 @@
           <div class="contact_section_info_item">
             <div class="contact_section_info_icon"><i class="bi bi-geo-alt"></i></div>
             <div>
-              <h4>Head Office</h4>
-              <p>Road No. 12, Banjara Hills,<br>Hyderabad, Telangana - 500034<br>India</p>
+              <h4>OUR ADDRESS:</h4>
+              <p>13-3-1/1, Opp.Anandabharati School, Cinemaroad, Kakinada,A.P</p>
             </div>
           </div>
 
@@ -42,7 +42,7 @@
             <div class="contact_section_info_icon"><i class="bi bi-telephone"></i></div>
             <div>
               <h4>Phone</h4>
-              <p>+91 98765 43210<br>+91 40 1234 5678</p>
+              <p>+91 96888 87888</p>
             </div>
           </div>
 
@@ -50,7 +50,7 @@
             <div class="contact_section_info_icon"><i class="bi bi-envelope"></i></div>
             <div>
               <h4>Email</h4>
-              <p>info@nayanagroup.com<br>projects@nayanagroup.com</p>
+              <p>nayanagroup21@gmail.com</p>
             </div>
           </div>
 
@@ -58,7 +58,7 @@
             <div class="contact_section_info_icon"><i class="bi bi-globe"></i></div>
             <div>
               <h4>Website</h4>
-              <p>www.nayanagroup.com</p>
+              <p>https://nayanagroups.com/</p>
             </div>
           </div>
 
@@ -66,7 +66,7 @@
             <div class="contact_section_info_icon"><i class="bi bi-clock"></i></div>
             <div>
               <h4>Business Hours</h4>
-              <p>Monday - Saturday<br>9:30 AM - 6:30 PM<br><br>Sunday by appointment only</p>
+              <p>Monday - Saturday<br>9:00 AM - 8:00 PM<br><br>Sunday : Close</p>
             </div>
           </div>
         </div>
@@ -127,17 +127,23 @@
     </div>
 
     <div class="row g-0 contact_section_map_area">
+     
       <div class="col-lg-8">
+         <a href="https://share.google/u11b61tAaUgqdEtSh" target="_blank">
         <div class="contact_section_map">
-          <i class="bi bi-geo-alt-fill contact_section_map_pin"></i>
+          <i class="bi bi-geo-alt-fill contact_section_map_pin">  </i>
+          
         </div>
+         </a>
       </div>
+     
 
       <div class="col-lg-4">
+          
         <div class="contact_section_visit">
           <h3>Visit Our Office</h3>
           <p>We’d love to meet you in person and discuss your project.</p>
-          <a href="#" class="contact_section_direction">
+          <a href="https://share.google/u11b61tAaUgqdEtSh" target="_blank" class="contact_section_direction">
             GET DIRECTIONS <i class="bi bi-geo-alt"></i>
           </a>
         </div>

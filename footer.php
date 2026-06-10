@@ -40,9 +40,9 @@
 
       <div class="col-lg-3">
         <h4 class="gallery_section_footer_title">CONTACT US</h4>
-        <div class="gallery_section_contact_line"><i class="bi bi-geo-alt"></i> Road No. 12, Banjara Hills,<br> Hyderabad, Telangana - 500034</div>
-        <div class="gallery_section_contact_line"><i class="bi bi-telephone"></i> +91 98765 43210</div>
-        <div class="gallery_section_contact_line"><i class="bi bi-envelope"></i> info@nayanagroup.com</div>
+        <div class="gallery_section_contact_line"><i class="bi bi-geo-alt"></i>  Cinema Rd, Ramakrishna Rao Peta, Kakinada, Andhra Pradesh 533001</div>
+        <div class="gallery_section_contact_line"><i class="bi bi-telephone"></i> +91 96888 87888</div>
+        <div class="gallery_section_contact_line"><i class="bi bi-envelope"></i>  nayanagroup21@gmail.com</div>
         <div class="gallery_section_contact_line"><i class="bi bi-globe"></i> www.nayanagroup.com</div>
       </div>
 

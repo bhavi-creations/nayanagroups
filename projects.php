@@ -46,18 +46,18 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="residential villas">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80">
+                            <img src="./assets/img/Resedential.jfif">
                             <div class="projects_section_badge">Residential</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
                         <div class="projects_section_card_body">
-                            <h3>Serenity Villa</h3>
-                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>Hyderabad, India</div>
-                            <p class="projects_section_desc">A modern minimal villa that blends luxury with nature, designed for serene living.</p>
+                            <h3>Residential</h3>
+                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
+                            <p class="projects_section_desc">Designing elegant and functional homes that combine comfort, quality, and modern living.</p>
                             <div class="projects_section_meta">
-                                <span>6,200 Sq.ft</span>
+                                <span>5,200 Sq.ft</span>
                                 <span>2023</span>
-                                <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a>
+                                <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -66,18 +66,18 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="commercial">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=900&q=80">
+                            <img src="./assets/img/commercial-building.jpg">
                             <div class="projects_section_badge">Commercial</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
                         <div class="projects_section_card_body">
-                            <h3>Vertex Corporate House</h3>
-                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>Bangalore, India</div>
-                            <p class="projects_section_desc">A futuristic workspace designed to inspire creativity and productivity.</p>
+                            <h3>Commercial</h3>
+                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
+                            <p class="projects_section_desc">Designing dynamic commercial spaces that enhance functionality, productivity, and business success.</p>
                             <div class="projects_section_meta">
-                                <span>45,000 Sq.ft</span>
+                                <span>4,800 Sq.ft</span>
                                 <span>2024</span>
-                                <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a>
+                                <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -86,58 +86,58 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="interiors">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=80">
+                            <img src="./assets/img/Interior.jpg">
                             <div class="projects_section_badge">Interiors</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
                         <div class="projects_section_card_body">
-                            <h3>Timeless Elegance</h3>
-                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>Hyderabad, India</div>
-                            <p class="projects_section_desc">A premium interior that reflects sophistication and attention to detail.</p>
+                            <h3>Interiors</h3>
+                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
+                            <p class="projects_section_desc">Creating elegant and functional interiors that blend comfort, style, and personalized design.</p>
                             <div class="projects_section_meta">
-                                <span>3,800 Sq.ft</span>
+                                <span>3,300 Sq.ft</span>
                                 <span>2023</span>
-                                <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a>
+                                <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 projects_section_item" data-category="villas residential">
+                <div class="col-lg-4 col-md-6 projects_section_item" data-category="">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="https://images.unsplash.com/photo-1600607687644-c7171b42498b?auto=format&fit=crop&w=900&q=80">
+                            <img src="./assets/img/Villas.jpg">
                             <div class="projects_section_badge">Villas</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
                         <div class="projects_section_card_body">
-                            <h3>Oakridge Villa</h3>
-                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>Bangalore, India</div>
-                            <p class="projects_section_desc">A spacious villa with earthy tones and natural light for a warm and inviting feel.</p>
+                            <h3>Villas</h3>
+                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
+                            <p class="projects_section_desc">Designing luxurious villas that combine timeless elegance, modern comfort, and exceptional living experiences.</p>
                             <div class="projects_section_meta">
-                                <span>7,500 Sq.ft</span>
+                                <span>6,500 Sq.ft</span>
                                 <span>2022</span>
-                                <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a>
+                                <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div class="col-lg-4 col-md-6 projects_section_item" data-category="commercial">
+                <div class="col-lg-4 col-md-6 projects_section_item" data-category="">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="https://images.unsplash.com/photo-1497366811353-6870744d04b2?auto=format&fit=crop&w=900&q=80">
-                            <div class="projects_section_badge">Commercial</div>
+                            <img src="./assets/img/Architecture_design.jpg">
+                            <div class="projects_section_badge">Architecture Design</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
                         <div class="projects_section_card_body">
-                            <h3>Aurelia Business Park</h3>
-                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>Hyderabad, India</div>
-                            <p class="projects_section_desc">An architectural marvel that combines functionality with sustainability.</p>
+                            <h3>Architecture Design</h3>
+                            <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
+                            <p class="projects_section_desc">Crafting innovative architectural designs that blend creativity, functionality, and timeless aesthetics.</p>
                             <div class="projects_section_meta">
-                                <span>1,20,000 Sq.ft</span>
+                                <span>5,500 Sq.ft</span>
                                 <span>2024</span>
-                                <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a>
+                                <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
                     </div>
@@ -146,18 +146,18 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="landscape">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="https://images.unsplash.com/photo-1604014238170-4def1e4e6fcf?auto=format&fit=crop&w=900&q=80">
+                            <img src="./assets/img/Landscape.jfif">
                             <div class="projects_section_badge">Landscape</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
                         <div class="projects_section_card_body">
-                            <h3>The Green Courtyard</h3>
+                            <h3>Landscape</h3>
                             <div class="projects_section_location"><i class="bi bi-geo-alt"></i>Hyderabad, India</div>
-                            <p class="projects_section_desc">A tranquil landscape design that brings life and harmony to outdoor spaces.</p>
+                            <p class="projects_section_desc">Creating beautiful outdoor spaces that blend nature, functionality, and aesthetic appeal.</p>
                             <div class="projects_section_meta">
-                                <span>12,000 Sq.ft</span>
+                                <span>4,400 Sq.ft</span>
                                 <span>2023</span>
-                                <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a>
+                                <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
                     </div>

@@ -83,7 +83,7 @@
         <div class="about_section_philosophy_card">
           <i class="bi bi-eye"></i>
           <h4>Our Vision</h4>
-          <p>To be a leading architecture and construction firm known for innovation, quality and sustainable practices.</p>
+          <p>To be a global design leader that redefines esthetics and sets new standards with timeless, inspiring creations.</p>
         </div>
       </div>
 
@@ -91,7 +91,7 @@
         <div class="about_section_philosophy_card">
           <i class="bi bi-bullseye"></i>
           <h4>Our Mission</h4>
-          <p>To create exceptional spaces that enhance lives and communities through integrity and excellence.</p>
+          <p>To transform spaces into living art with innovative design, sustainable practices and unmatched customer satisfaction.</p>
         </div>
       </div>
 
@@ -99,7 +99,7 @@
         <div class="about_section_philosophy_card">
           <i class="bi bi-gem"></i>
           <h4>Our Values</h4>
-          <p>Integrity, transparency, creativity, quality and commitment are at the heart of everything we do.</p>
+          <p>Delivering exceptional quality through reliable craftsmanship, premium materials, and a commitment to exceeding client expectations.</p>
         </div>
       </div>
 
@@ -107,7 +107,7 @@
         <div class="about_section_philosophy_card last">
           <i class="bi bi-feather"></i>
           <h4>Sustainability</h4>
-          <p>We design and build responsibly for a better tomorrow and a greener future.</p>
+          <p>Creating environmentally responsible spaces through sustainable practices, efficient resource use, and eco-friendly design solutions.</p>
         </div>
       </div>
     </div>
@@ -120,31 +120,29 @@
     <div class="row gy-4">
       <div class="col-lg col-md-4 col-6">
         <div class="about_section_counter_box">
-          <h2>250+</h2>
-          <p>Projects Completed</p>
+          <h2>280+
+</h2>
+          <p>Current Clients</p>
         </div>
       </div>
 
       <div class="col-lg col-md-4 col-6">
         <div class="about_section_counter_box">
-          <h2>150+</h2>
+          <h2>250+
+</h2>
           <p>Happy Clients</p>
         </div>
       </div>
 
       <div class="col-lg col-md-4 col-6">
         <div class="about_section_counter_box">
-          <h2>18+</h2>
-          <p>Awards Won</p>
+          <h2>35+
+</h2>
+          <p>awards winning</p>
         </div>
       </div>
 
-      <div class="col-lg col-md-4 col-6">
-        <div class="about_section_counter_box">
-          <h2>50+</h2>
-          <p>Team Members</p>
-        </div>
-      </div>
+      
 
       <div class="col-lg col-md-4 col-12">
         <div class="about_section_counter_box last">

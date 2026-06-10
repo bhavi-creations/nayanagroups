@@ -7,13 +7,12 @@
     <div class="carrer_section_small_title">Careers</div>
 
     <h1 class="carrer_section_hero_title">
-      Build your future.<br>
-      Design the <span>extraordinary.</span>
+     Smart Interiors.<br>
+     <span>Brighter Futures</span>
     </h1>
 
     <p class="carrer_section_hero_text">
-      At Nayana Group, we believe great spaces are created by great people.
-      Join a team that values creativity, collaboration and continuous growth.
+      At Nayana Groups, we believe exceptional designs are driven by passionate people. Join our team and be part of creating inspiring architectural and interior spaces that leave a lasting impact.
     </p>
 
     <a href="#" class="carrer_section_btn">
@@ -40,24 +39,24 @@
         <div class="col-lg-2">
           <div class="carrer_section_value_box">
             <i class="bi bi-lightbulb"></i>
-            <h4>Innovation</h4>
-            <p>We embrace new ideas and modern solutions.</p>
+            <h4>Creativity</h4>
+            <p>We transform ideas into innovative and functional designs.</p>
           </div>
         </div>
 
         <div class="col-lg-2">
           <div class="carrer_section_value_box">
             <i class="bi bi-people"></i>
-            <h4>Collaboration</h4>
-            <p>We believe in teamwork and open communication.</p>
+            <h4>Integrity</h4>
+            <p>We build trust through transparency, professionalism, and commitment.</p>
           </div>
         </div>
 
         <div class="col-lg-2">
           <div class="carrer_section_value_box">
             <i class="bi bi-award"></i>
-            <h4>Excellence</h4>
-            <p>We are committed to quality in everything we do.</p>
+            <h4>Quality</h4>
+            <p>We strive for excellence in every project we undertake.</p>
           </div>
         </div>
 
@@ -65,7 +64,7 @@
           <div class="carrer_section_value_box">
             <i class="bi bi-feather"></i>
             <h4>Sustainability</h4>
-            <p>We design responsibly for a better tomorrow.</p>
+            <p>We promote responsible design practices for a better future.</p>
           </div>
         </div>
 
@@ -73,7 +72,7 @@
           <div class="carrer_section_value_box last">
             <i class="bi bi-graph-up-arrow"></i>
             <h4>Growth</h4>
-            <p>We invest in our people and their development.</p>
+            <p>We encourage continuous learning and professional development.</p>
           </div>
         </div>
       </div>
@@ -85,22 +84,22 @@
       </div>
 
       <div class="col-lg-6">
-        <div class="carrer_section_small_title">Why build your career with us?</div>
+        <div class="carrer_section_small_title">Why Join Nayana Groups?</div>
         <h2 class="carrer_section_heading">
-          A place to grow.<br>
-          A passion to <span>belong.</span>
+          Grow With Purpose.<br>
+           <span>Design With Passion.</span>
         </h2>
         <p class="carrer_section_text">
-          We provide opportunities to learn, lead and make an impact.
+          We offer an environment where talent is nurtured, creativity is valued, and every contribution makes a difference.
         </p>
 
         <ul class="carrer_section_check_list">
-          <li><i class="bi bi-check-circle"></i>Challenging & meaningful projects</li>
-          <li><i class="bi bi-check-circle"></i>Mentorship from industry experts</li>
-          <li><i class="bi bi-check-circle"></i>Continuous learning & development</li>
-          <li><i class="bi bi-check-circle"></i>Creative & inclusive culture</li>
-          <li><i class="bi bi-check-circle"></i>Work-life balance</li>
-          <li><i class="bi bi-check-circle"></i>Competitive compensation</li>
+          <li><i class="bi bi-check-circle"></i>Exciting architecture and interior design projects</li>
+          <li><i class="bi bi-check-circle"></i>Opportunities to learn from experienced professionals</li>
+          <li><i class="bi bi-check-circle"></i>Supportive and collaborative work culture</li>
+          <li><i class="bi bi-check-circle"></i>Career growth and skill development</li>
+          <li><i class="bi bi-check-circle"></i>Work-life balance and employee well-being</li>
+          <li><i class="bi bi-check-circle"></i>Recognition for innovation and excellence</li>
         </ul>
       </div>
     </div>
@@ -217,24 +216,24 @@
 
       <div class="row g-3">
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="https://images.unsplash.com/photo-1600880292089-90a7e086ee0c?auto=format&fit=crop&w=400&q=80">
+          <img class="carrer_section_life_img" src="assets/img/Architecture_design.jpg">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="https://images.unsplash.com/photo-1521737604893-d14cc237f11d?auto=format&fit=crop&w=400&q=80">
+          <img class="carrer_section_life_img" src="assets/img/Interior.jpg">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="https://images.unsplash.com/photo-1511795409834-ef04bbd61622?auto=format&fit=crop&w=400&q=80">
+          <img class="carrer_section_life_img" src="assets/img/Interior1.jpg">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="https://images.unsplash.com/photo-1600880292203-757bb62b4baf?auto=format&fit=crop&w=400&q=80">
+          <img class="carrer_section_life_img" src="assets/img/Project_Management.jpg">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="https://images.unsplash.com/photo-1531415074968-036ba1b575da?auto=format&fit=crop&w=400&q=80">
+          <img class="carrer_section_life_img" src="assets/img/Project_Management1.jpg">
         </div>
       </div>
 
       <div class="carrer_section_quote">
-        <span>“</span> We don’t just build spaces, we build careers and lifelong memories. <span>”</span>
+        <span>“</span> We don't just design spaces—we create experiences, inspire creativity, and build successful careers. <span>”</span>
       </div>
     </div>
 
