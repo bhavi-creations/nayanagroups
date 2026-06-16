@@ -85,10 +85,10 @@
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 ">
                 <div class="index_section_project_card">
-                    <img src="https://images.unsplash.com/photo-1600607687920-4e2a09cf159d?auto=format&fit=crop&w=800&q=80">
+                    <img src="./assets/img/architure.png">
                     <div class="index_section_project_body">
-                        <h5>Luxury Villa</h5>
-                        <p>Hyderabad, India</p>
+                        <h5>Architecture</h5>
+                        <p>kakinada, Andhra Pradesh</p>
                         <i class="bi bi-arrow-up-right"></i>
                     </div>
                 </div>
@@ -96,10 +96,10 @@
 
             <div class="col-lg-4 col-md-6 ">
                 <div class="index_section_project_card">
-                    <img src="https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=800&q=80">
+                    <img src="./assets/img/Interior.jpg">
                     <div class="index_section_project_body">
-                        <h5>Commercial Building</h5>
-                        <p>Bangalore, India</p>
+                        <h5>interior</h5>
+                        <p>kakinada, Andhra Pradesh</p>
                         <i class="bi bi-arrow-up-right"></i>
                     </div>
                 </div>
@@ -107,10 +107,10 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="index_section_project_card">
-                    <img src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=800&q=80">
+                    <img src="./assets/img/project mangaer.png">
                     <div class="index_section_project_body">
-                        <h5>Premium Interior</h5>
-                        <p>Hyderabad, India</p>
+                        <h5>Project Management</h5>
+                        <p>kakinada, Andhra Pradesh</p>
                         <i class="bi bi-arrow-up-right"></i>
                     </div>
                 </div>

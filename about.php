@@ -5,7 +5,7 @@
   <div class="container-fluid p-0">
     <div class="row g-0 align-items-stretch">
       <div class="col-lg-4">
-        <img class="about_section_hero_img" src="https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?auto=format&fit=crop&w=900&q=80" alt="About Building">
+        <img class="about_section_hero_img" src="./assets/img/about_side_img.webp" alt="About Building">
       </div>
 
       <div class="col-lg-5">
