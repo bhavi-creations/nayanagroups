@@ -15,12 +15,12 @@
       At Nayana Groups, we believe exceptional designs are driven by passionate people. Join our team and be part of creating inspiring architectural and interior spaces that leave a lasting impact.
     </p>
 
-    <a href="#" class="carrer_section_btn">
-      EXPLORE OPENINGS <i class="bi bi-arrow-right"></i>
+    <a href="contact-us.php" class="carrer_section_btn">
+      Contact Us <i class="bi bi-arrow-right"></i>
     </a>
 
-    <a href="#" class="carrer_section_outline_btn">
-      LIFE AT NG <i class="bi bi-play"></i>
+    <a href="about.php" class="carrer_section_outline_btn">
+      About Us <i class="bi bi-play"></i>
     </a>
   </div>
 </section>
@@ -28,13 +28,12 @@
 <section class="carrer_section_main">
   <div class="container">
 
-    <div class="carrer_section_values">
+    <!-- <div class="carrer_section_values">
       <div class="row align-items-center gy-4">
-        <div class="col-lg-2">
-          <div class="carrer_section_value_box">
+        <div class="carrer_section_value_box">
             <h4 style="color:var(--index_section_gold);font-weight:800;">OUR<br>VALUES</h4>
           </div>
-        </div>
+      
 
         <div class="col-lg-2">
           <div class="carrer_section_value_box">
@@ -76,11 +75,88 @@
           </div>
         </div>
       </div>
+    </div> -->
+
+<!-- new section  -->
+ <div class="carrer_section_values">
+
+ <h2 class="carrer_section_heading  d-flex justify-content-center d-block d-lg-none">
+         
+           <span> OUR VALUES.</span>
+        </h2>
+
+   <!-- <div class="d-flex justify-content-center my-5 d-block d-lg-none">
+                <h4 style="color:var(--index_section_gold);font-weight:800;">
+                    OUR<br>VALUES
+                </h4> 
+            </div> -->
+    <div class="row gy-4">
+
+        <!-- OUR VALUES -->
+         <div class="col-6 col-md-6 col-lg-2 d-none d-lg-block">
+           <div class="carrer_section_value_box">
+                 <h2 class="carrer_section_heading  d-flex align-items-center justify-content-center ">
+         
+           <span> OUR <br> VALUES</span>
+        </h2>
+            </div>
+         </div>
+
+        <!-- Creativity -->
+        <div class="col-6 col-md-6 col-lg-2">
+            <div class="carrer_section_value_box">
+                <i class="bi bi-lightbulb"></i>
+                <h4>Creativity</h4>
+                <p>We transform ideas into innovative and functional designs.</p>
+            </div>
+        </div>
+
+        <!-- Integrity -->
+        <div class="col-6 col-md-6 col-lg-2">
+            <div class="carrer_section_value_box">
+                <i class="bi bi-people"></i>
+                <h4>Integrity</h4>
+                <p>We build trust through transparency, professionalism, and commitment.</p>
+            </div>
+        </div>
+
+        <!-- Quality -->
+        <div class="col-6 col-md-6 col-lg-2">
+            <div class="carrer_section_value_box">
+                <i class="bi bi-award"></i>
+                <h4>Quality</h4>
+                <p>We strive for excellence in every project we undertake.</p>
+            </div>
+        </div>
+
+        <!-- Sustainability -->
+        <div class="col-6 col-md-6 col-lg-2">
+            <div class="carrer_section_value_box">
+                <i class="bi bi-feather"></i>
+                <h4>Sustainability</h4>
+                <p>We promote responsible design practices for a better future.</p>
+            </div>
+        </div>
+
+        <!-- Growth -->
+        <!-- <div class="col-12 col-lg-2">
+            <div class="carrer_section_value_box last">
+                <i class="bi bi-graph-up-arrow"></i>
+                <h4>Growth</h4>
+                <p>We encourage continuous learning and professional development.</p>
+            </div>
+        </div> -->
+
     </div>
+</div>
+
+
+
+
 
     <div class="row g-5 align-items-center mb-4">
       <div class="col-lg-6">
-        <img class="carrer_section_about_img" src="https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?auto=format&fit=crop&w=900&q=80">
+        <img class="carrer_section_about_img" src="assets\img\Career_img1.jpg">
       </div>
 
       <div class="col-lg-6">
@@ -94,13 +170,36 @@
         </p>
 
         <ul class="carrer_section_check_list">
-          <li><i class="bi bi-check-circle"></i>Exciting architecture and interior design projects</li>
-          <li><i class="bi bi-check-circle"></i>Opportunities to learn from experienced professionals</li>
-          <li><i class="bi bi-check-circle"></i>Supportive and collaborative work culture</li>
-          <li><i class="bi bi-check-circle"></i>Career growth and skill development</li>
-          <li><i class="bi bi-check-circle"></i>Work-life balance and employee well-being</li>
-          <li><i class="bi bi-check-circle"></i>Recognition for innovation and excellence</li>
-        </ul>
+    <li>
+        <i class="bi bi-check-circle"></i>
+        <span>Exciting architecture and interior design projects</span>
+    </li>
+
+    <li>
+        <i class="bi bi-check-circle"></i>
+        <span>Opportunities to learn from experienced professionals</span>
+    </li>
+
+    <li>
+        <i class="bi bi-check-circle"></i>
+        <span>Supportive and collaborative work culture</span>
+    </li>
+
+    <li>
+        <i class="bi bi-check-circle"></i>
+        <span>Career growth and skill development</span>
+    </li>
+
+    <li>
+        <i class="bi bi-check-circle"></i>
+        <span>Work-life balance and employee well-being</span>
+    </li>
+
+    <li>
+        <i class="bi bi-check-circle"></i>
+        <span>Recognition for innovation and excellence</span>
+    </li>
+</ul>
       </div>
     </div>
 
@@ -216,19 +315,19 @@
 
       <div class="row g-3">
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/Architecture_design.jpg">
+          <img class="carrer_section_life_img" src="assets/img/architecture1.jpg">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/Interior.jpg">
+          <img class="carrer_section_life_img" src="assets/img/Project_manager.png">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/Interior1.jpg">
+          <img class="carrer_section_life_img" src="assets/img/Interior_1.jpg">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/Project_Management.jpg">
+          <img class="carrer_section_life_img" src="assets/img/Interior11.jpg">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/Project_Management1.jpg">
+          <img class="carrer_section_life_img" src="assets/img/12.png">
         </div>
       </div>
 

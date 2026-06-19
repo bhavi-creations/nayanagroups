@@ -1,7 +1,7 @@
 <footer class="gallery_section_footer">
   <div class="container">
     <div class="row gy-4">
-      <div class="col-lg-3 col-6">
+      <div class="col-lg-3 col-12 col-md-6">
         <img src="./assets/img/logo.png" class="gallery_section_footer_logo text-center">
         <p class="gallery_section_footer_text">
           We create exceptional spaces that enhance lives and stand the test of time.
@@ -14,7 +14,7 @@
         </div>
       </div>
 
-      <div class="col-lg-2 col-6">
+      <div class="col-lg-2 col-6 col-md-6">
         <h4 class="gallery_section_footer_title">QUICK LINKS</h4>
         <ul>
           <li><a href="index.php">Home</a></li>
@@ -26,7 +26,7 @@
         </ul>
       </div>
 
-      <div class="col-lg-2 col-6">
+      <div class="col-lg-2 col-6 col-md-6">
         <h4 class="gallery_section_footer_title">OUR SERVICES</h4>
         <ul>
           <li><a href="services.php">Architecture</a></li>
@@ -38,7 +38,7 @@
         </ul>
       </div>
 
-      <div class="col-lg-3 col-6">
+      <div class="col-lg-3 col-12 col-md-6">
         <h4 class="gallery_section_footer_title">CONTACT US</h4>
         <div class="gallery_section_contact_line"><i class="bi bi-geo-alt"></i>  Cinema Rd, Ramakrishna Rao Peta, Kakinada, Andhra Pradesh 533001</div>
         <div class="gallery_section_contact_line"><i class="bi bi-telephone"></i> +91 96888 87888</div>
@@ -46,14 +46,14 @@
         <div class="gallery_section_contact_line"><i class="bi bi-globe"></i> www.nayanagroup.com</div>
       </div>
 
-      <div class="col-lg-2">
+      <!-- <div class="col-lg-2">
         <h4 class="gallery_section_footer_title">NEWSLETTER</h4>
         <p class="gallery_section_footer_text">Subscribe to get updates on our latest projects.</p>
         <div class="gallery_section_newsletter">
           <input type="email" placeholder="Enter your email">
           <button><i class="bi bi-arrow-right"></i></button>
         </div>
-      </div>
+      </div> -->
     </div>
 
     <div class="gallery_section_copyright d-flex justify-content-between flex-wrap gap-2">

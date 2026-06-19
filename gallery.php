@@ -25,9 +25,9 @@
         <button class="gallery_section_filter_btn" data-filter="landscape">LANDSCAPE</button>
       </div>
 
-      <div class="gallery_section_filter_text">
+      <!-- <div class="gallery_section_filter_text">
         <i class="bi bi-sliders"></i> FILTER
-      </div>
+      </div> -->
     </div>
   </div>
 </section>

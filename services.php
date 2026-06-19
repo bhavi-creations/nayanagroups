@@ -13,8 +13,8 @@
             From concept to completion, we provide comprehensive architecture and construction services tailored to your vision.
         </p>
 
-        <a href="contact-us.php" class="service_section_primary_btn">
-            Contact Us <i class="bi bi-arrow-right"></i>
+        <a href="carrer.php" class="service_section_primary_btn">
+            Careers <i class="bi bi-arrow-right"></i>
         </a>
     </div>
 </section>
@@ -29,7 +29,7 @@
         <div class="row g-4">
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Architecture_design.jpg">
+                    <img class="service_section_card_img" src="./assets/img/architure.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-bank"></i></div>
                         <div class="service_section_number">01</div>
@@ -42,7 +42,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Interior.jpg">
+                    <img class="service_section_card_img" src="./assets/img/inteterior.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-lamp"></i></div>
                         <div class="service_section_number">02</div>
@@ -111,7 +111,7 @@
 <section class="service_section_counter">
     <div class="container">
         <div class="row gy-4">
-            <div class="col-lg col-md-4 col-6">
+            <div class="col-lg col-md-6 col-6">
                 <div class="service_section_counter_box">
                   <i class="bi bi-people"></i>
                     <div>
@@ -121,7 +121,7 @@
                 </div>
             </div>
 
-            <div class="col-lg col-md-4 col-6">
+            <div class="col-lg col-md-6 col-6">
                 <div class="service_section_counter_box">
                     <i class="bi bi-people"></i>
                     <div>
@@ -131,7 +131,7 @@
                 </div>
             </div>
 
-            <div class="col-lg col-md-4 col-6">
+            <div class="col-lg col-md-6 col-6">
                 <div class="service_section_counter_box">
                     <i class="bi bi-trophy"></i>
                     <div>
@@ -151,7 +151,7 @@
                 </div>
             </div> -->
 
-            <div class="col-lg col-md-4 col-12">
+            <div class="col-lg col-md-6 col-6">
                 <div class="service_section_counter_box last">
                     <i class="bi bi-gear"></i>
                     <div>

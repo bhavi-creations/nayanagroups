@@ -19,24 +19,14 @@
 <section class="index_section_stats">
     <div class="container">
         <div class="row align-items-center gy-4">
-            <div class="col-lg-3">
-                <div class="index_section_intro_text">
-
-
-
-
-
-                    Creating spaces<br>
-                    that embody <span>luxury,</span><br>
-                    <span>innovation </span> and<br>
-                    <span> sustainability.</span>
-
-                    <!-- Building spaces<br>
-                    that reflect <span>style,</span><br>
-                    <span>strength</span> and<br>
-                    <span>sustainability.</span> -->
-                </div>
-            </div>
+            <div class="col-12 col-lg-3">
+              <div class="index_section_intro_text">
+                 Creating spaces<br>
+                 that embody <span>luxury,</span><br>
+                 <span>innovation</span> and<br>
+                 <span>sustainability.</span>
+             </div>
+         </div>
 
             <div class="col-lg-9">
 
@@ -57,6 +47,7 @@
                         <div class="index_section_stat_number">35+</div>
                         <div class="index_section_stat_label">awards winning</div>
                     </div>
+                    
                     <div class="col-md-3 col-6 index_section_stat_box">
                         <i class="bi bi-people"></i>
                         <div class="index_section_stat_number"> 250 +</div>
@@ -96,7 +87,7 @@
 
             <div class="col-lg-4 col-md-6 ">
                 <div class="index_section_project_card">
-                    <img src="./assets/img/Interior.jpg">
+                    <img src="./assets/img/interior.png">
                     <div class="index_section_project_body">
                         <h5>interior</h5>
                         <p>kakinada, Andhra Pradesh</p>
@@ -124,62 +115,62 @@
         <div class="row g-4 align-items-start">
             <div class="col-lg-3">
                 <div class="index_section_small_title">OUR SERVICES</div>
-                <h2 class="index_section_title">End-to-end<br>design &<br>construction<br>solutions.</h2>
+                <h2 class="index_section_title">End-to-end design & construction solutions.</h2>
             </div>
 
             <div class="col-lg-9">
                 <div class="row g-4">
-                    <div class="col-md-4">
+                    <div class="col-6 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-bank index_section_service_icon"></i>
                             <h4>Architecture</h4>
                             <p>Innovative architectural solutions that blend creativity, functionality, and sustainable design.</p>
-                            <i class="bi bi-arrow-right"></i>
+                            
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-6 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-bounding-box index_section_service_icon"></i>
                             <h4>Interior Design</h4>
                             <p>Elegant interior spaces crafted to enhance comfort, style, and everyday living.</p>
-                            <i class="bi bi-arrow-right"></i>
+                            
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-6 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-building index_section_service_icon"></i>
                             <h4>Construction</h4>
                             <p>Quality construction services delivered with precision, reliability, and excellence.</p>
-                            <i class="bi bi-arrow-right"></i>
+                            
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-6 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-person-workspace index_section_service_icon"></i>
                             <h4>Project Management</h4>
                             <p>Strategic project management ensuring seamless execution, efficiency, and timely delivery.</p>
-                            <i class="bi bi-arrow-right"></i>
+                            
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-6 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-tools index_section_service_icon"></i>
                             <h4>Renovation</h4>
                             <p>Transforming existing spaces with modern designs, improved functionality, and lasting value.</p>
-                            <i class="bi bi-arrow-right"></i>
+                            
                         </div>
                     </div>
 
-                    <div class="col-md-4">
+                    <div class="col-6 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-flower1 index_section_service_icon"></i>
                             <h4>Landscape Design</h4>
                             <p>Beautiful outdoor environments designed to harmonize nature, aesthetics, and purpose.</p>
-                            <i class="bi bi-arrow-right"></i>
+                            
                         </div>
                     </div>
                 </div>

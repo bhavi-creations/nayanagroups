@@ -14,9 +14,9 @@
                 that redefine design and set new benchmarks of excellence.
             </p>
 
-            <a href="#" class="projects_section_outline_btn">
-                LET’S BUILD YOUR DREAM <i class="bi bi-arrow-right"></i>
-            </a>
+            <a href="services.php" class="service_section_primary_btn">
+            See Our Services <i class="bi bi-arrow-right"></i>
+        </a>
         </div>
     </section>
 
@@ -32,9 +32,9 @@
                     <button class="projects_section_filter_btn" data-filter="landscape">LANDSCAPE</button>
                 </div>
 
-                <div class="projects_section_filter_text">
+                <!-- <div class="projects_section_filter_text">
                     <i class="bi bi-sliders"></i> FILTER
-                </div>
+                </div> -->
             </div>
         </div>
     </section>
@@ -55,8 +55,8 @@
                             <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
                             <p class="projects_section_desc">Designing elegant and functional homes that combine comfort, quality, and modern living.</p>
                             <div class="projects_section_meta">
-                                <span>5,200 Sq.ft</span>
-                                <span>2023</span>
+                                <!-- <span>5,200 Sq.ft</span>
+                                <span>2023</span> -->
                                 <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
@@ -75,8 +75,8 @@
                             <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
                             <p class="projects_section_desc">Designing dynamic commercial spaces that enhance functionality, productivity, and business success.</p>
                             <div class="projects_section_meta">
-                                <span>4,800 Sq.ft</span>
-                                <span>2024</span>
+                                <!-- <span>4,800 Sq.ft</span>
+                                <span>2024</span> -->
                                 <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
@@ -86,7 +86,7 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="interiors">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="./assets/img/Interior.jpg">
+                            <img src="./assets/img/Interior_1.jpg">
                             <div class="projects_section_badge">Interiors</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
@@ -95,8 +95,8 @@
                             <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
                             <p class="projects_section_desc">Creating elegant and functional interiors that blend comfort, style, and personalized design.</p>
                             <div class="projects_section_meta">
-                                <span>3,300 Sq.ft</span>
-                                <span>2023</span>
+                                <!-- <span>3,300 Sq.ft</span>
+                                <span>2023</span> -->
                                 <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
@@ -115,8 +115,8 @@
                             <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
                             <p class="projects_section_desc">Designing luxurious villas that combine timeless elegance, modern comfort, and exceptional living experiences.</p>
                             <div class="projects_section_meta">
-                                <span>6,500 Sq.ft</span>
-                                <span>2022</span>
+                                <!-- <span>6,500 Sq.ft</span>
+                                <span>2022</span> -->
                                 <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
@@ -126,7 +126,7 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="./assets/img/Architecture_design.jpg">
+                            <img src="./assets/img/architecture1.jpg">
                             <div class="projects_section_badge">Architecture Design</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
@@ -135,8 +135,8 @@
                             <div class="projects_section_location"><i class="bi bi-geo-alt"></i>kakinada, India</div>
                             <p class="projects_section_desc">Crafting innovative architectural designs that blend creativity, functionality, and timeless aesthetics.</p>
                             <div class="projects_section_meta">
-                                <span>5,500 Sq.ft</span>
-                                <span>2024</span>
+                                <!-- <span>5,500 Sq.ft</span>
+                                <span>2024</span> -->
                                 <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
@@ -155,8 +155,8 @@
                             <div class="projects_section_location"><i class="bi bi-geo-alt"></i>Hyderabad, India</div>
                             <p class="projects_section_desc">Creating beautiful outdoor spaces that blend nature, functionality, and aesthetic appeal.</p>
                             <div class="projects_section_meta">
-                                <span>4,400 Sq.ft</span>
-                                <span>2023</span>
+                                <!-- <span>4,400 Sq.ft</span>
+                                <span>2023</span> -->
                                 <!-- <a href="#" class="projects_section_view">View Project <i class="bi bi-arrow-right"></i></a> -->
                             </div>
                         </div>
