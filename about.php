@@ -4,7 +4,7 @@
 <section class="about_section_hero">
   <div class="container-fluid p-0">
     <div class="row g-0 align-items-stretch">
-      <div class="col-lg-4">
+      <div class="col-lg-4 d-none d-lg-block">
         <img class="about_section_hero_img" src="./assets/img/about_side_img.webp" alt="About Building">
       </div>
 
@@ -13,9 +13,9 @@
           <div class="about_section_small_title">ABOUT US</div>
 
           <h1 class="about_section_title">
-           NAYANA Groups: Elevating Design,
-           <span>Beyond Imagination.</span>
-         </h1>
+            NAYANA Groups: Elevating Design,
+            <span>Beyond Imagination.</span>
+          </h1>
 
           <p class="about_section_text">
             NAYANA GROUP is a premier architectural practice committed to transforming spac novative and sustainable design solutions with a deep understanding of the relationship t built environment and its users, we craft spaces that are not only aesthetically pleasi functional and environmentally responsible
@@ -24,6 +24,9 @@
           <div class="about_section_signature">Nayana Satya Reddy</div>
           <div class="about_section_designation">Founder & Managing Director</div>
         </div>
+      </div>
+      <div class="col-lg-4  d-block d-lg-none">
+        <img class="about_section_hero_img" src="./assets/img/about_side_img.webp" alt="About Building">
       </div>
 
       <div class="col-lg-3">
@@ -79,39 +82,39 @@
 
     <div class="row mt-5 g-3">
 
-    <div class="col-6 col-lg-3">
+      <div class="col-6 col-lg-3">
         <div class="about_section_philosophy_card">
-            <i class="bi bi-eye"></i>
-            <h4>Our Vision</h4>
-            <p>To be a global design leader that redefines esthetics and sets new standards with timeless, inspiring creations.</p>
+          <i class="bi bi-eye"></i>
+          <h4>Our Vision</h4>
+          <p>To be a global design leader that redefines esthetics and sets new standards with timeless, inspiring creations.</p>
         </div>
-    </div>
+      </div>
 
-    <div class="col-6 col-lg-3">
+      <div class="col-6 col-lg-3">
         <div class="about_section_philosophy_card">
-            <i class="bi bi-bullseye"></i>
-            <h4>Our Mission</h4>
-            <p>To transform spaces into living art with innovative design, sustainable practices and unmatched customer satisfaction.</p>
+          <i class="bi bi-bullseye"></i>
+          <h4>Our Mission</h4>
+          <p>To transform spaces into living art with innovative design, sustainable practices and unmatched customer satisfaction.</p>
         </div>
-    </div>
+      </div>
 
-    <div class="col-6 col-lg-3">
+      <div class="col-6 col-lg-3">
         <div class="about_section_philosophy_card">
-            <i class="bi bi-gem"></i>
-            <h4>Our Values</h4>
-            <p>Delivering exceptional quality through reliable craftsmanship, premium materials, and a commitment to exceeding client expectations.</p>
+          <i class="bi bi-gem"></i>
+          <h4>Our Values</h4>
+          <p>Delivering exceptional quality through reliable craftsmanship, premium materials, and a commitment to exceeding client expectations.</p>
         </div>
-    </div>
+      </div>
 
-    <div class="col-6 col-lg-3">
+      <div class="col-6 col-lg-3">
         <div class="about_section_philosophy_card">
-            <i class="bi bi-feather"></i>
-            <h4>Sustainability</h4>
-            <p>Creating environmentally responsible spaces through sustainable practices, efficient resource use, and eco-friendly design solutions.</p>
+          <i class="bi bi-feather"></i>
+          <h4>Sustainability</h4>
+          <p>Creating environmentally responsible spaces through sustainable practices, efficient resource use, and eco-friendly design solutions.</p>
         </div>
-    </div>
+      </div>
 
-</div>
+    </div>
 </section>
 <!-- COUNTER -->
 <section class="about_section_counter">
@@ -120,7 +123,7 @@
       <div class="col-lg col-md-6 col-6">
         <div class="about_section_counter_box">
           <h2>280+
-</h2>
+          </h2>
           <p>Current Clients</p>
         </div>
       </div>
@@ -128,7 +131,7 @@
       <div class="col-lg col-md-6 col-6">
         <div class="about_section_counter_box">
           <h2>250+
-</h2>
+          </h2>
           <p>Happy Clients</p>
         </div>
       </div>
@@ -136,15 +139,15 @@
       <div class="col-lg col-md-6 col-6">
         <div class="about_section_counter_box">
           <h2>35+
-</h2>
+          </h2>
           <p>awards winning</p>
         </div>
       </div>
 
-      
+
 
       <div class="col-lg col-md-6 col-6">
-       
+
         <div class="about_section_counter_box last">
           <h2>10+</h2>
           <p>Years of Experience</p>
