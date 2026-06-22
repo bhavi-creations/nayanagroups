@@ -19,20 +19,7 @@
 <section class="blogs_section_main">
   <div class="container">
 
-    <div class="d-flex justify-content-between align-items-center blogs_section_tabs flex-wrap">
-      <div>
-        <button class="blogs_section_tab_btn active" data-filter="all">ALL POSTS</button>
-        <button class="blogs_section_tab_btn" data-filter="architecture">ARCHITECTURE</button>
-        <button class="blogs_section_tab_btn" data-filter="interior">INTERIOR DESIGN</button>
-        <button class="blogs_section_tab_btn" data-filter="construction">CONSTRUCTION</button>
-        <button class="blogs_section_tab_btn" data-filter="design">DESIGN IDEAS</button>
-        <button class="blogs_section_tab_btn" data-filter="project">PROJECT STORIES</button>
-      </div>
-      <div class="blogs_section_view_icons">
-        <i class="bi bi-grid"></i>
-        <i class="bi bi-list"></i>
-      </div>
-    </div>
+    
 
     <div class="row g-4">
       <div class="col-lg-8">
@@ -169,14 +156,7 @@
           </div>
         </div>
 
-        <div class="blogs_section_sidebar_box">
-          <h4 class="blogs_section_sidebar_title">Subscribe To Our Newsletter</h4>
-          <p class="blogs_section_newsletter_text">Get the latest updates on our projects, design ideas and architecture trends.</p>
-          <div class="blogs_section_newsletter_form">
-            <input type="email" placeholder="Enter your email">
-            <button><i class="bi bi-arrow-right"></i></button>
-          </div>
-        </div>
+       
       </div>
     </div>
   </div>
