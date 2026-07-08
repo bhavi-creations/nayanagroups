@@ -226,10 +226,10 @@
         <div class="row g-4">
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="https://images.unsplash.com/photo-1580489944761-15a19d654956?auto=format&fit=crop&w=500&q=80" alt="">
+              <img src="./assets/img/satya reddy.png" alt="">
               <div class="about_section_team_overlay">
-                <h4>Nayana Reddy</h4>
-                <p>Founder & MD</p>
+                <h4>Ar. Satya Reddy</h4>
+                <p>M.Arch, MBA, AIIA, IIID</p>
                 <div class="about_section_social">
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                   <a href="#"><i class="bi bi-instagram"></i></a>
@@ -240,10 +240,10 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?auto=format&fit=crop&w=500&q=80" alt="">
+              <img src="./assets/img/jyothrmayi.png" alt="">
               <div class="about_section_team_overlay">
-                <h4>Arjun Varma</h4>
-                <p>Chief Architect</p>
+                <h4>Jyotirmayi</h4>
+                <p>MBA</p>
                 <div class="about_section_social">
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                   <a href="#"><i class="bi bi-instagram"></i></a>
@@ -254,10 +254,10 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="https://images.unsplash.com/photo-1594744803329-e58b31de8bf5?auto=format&fit=crop&w=500&q=80" alt="">
+              <img src="./assets/img/pavan.png" alt="">
               <div class="about_section_team_overlay">
-                <h4>Meera Iyer</h4>
-                <p>Head - Interior Design</p>
+                <h4>Ar. Pavan</h4>
+                <p>B.Arch</p>
                 <div class="about_section_social">
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                   <a href="#"><i class="bi bi-instagram"></i></a>
@@ -268,10 +268,95 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=500&q=80" alt="">
+              <img src="./assets/img/prasad.png" alt="">
               <div class="about_section_team_overlay">
-                <h4>Rohit Kumar</h4>
-                <p>Project Director</p>
+                <h4>Ar. T.D.Prasad</h4>
+                <p>B.Arch</p>
+                <div class="about_section_social">
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="about_section_team_card">
+              <img src="./assets/img/seshu.png" alt="">
+              <div class="about_section_team_overlay">
+                <h4>Er. Seshu</h4>
+                <p>Civil Engineer</p>
+                <div class="about_section_social">
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="about_section_team_card">
+              <img src="./assets/img/sridhar.png" alt="">
+              <div class="about_section_team_overlay">
+                <h4>Er. Sridhar</h4>
+                <p>Civil</p>
+                <div class="about_section_social">
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+           <div class="col-lg-3 col-md-6">
+            <div class="about_section_team_card">
+              <img src="./assets/img/vinay.png" alt="">
+              <div class="about_section_team_overlay">
+                <h4>Er. Vinay</h4>
+                <p>Civil</p>
+                <div class="about_section_social">
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="about_section_team_card">
+              <img src="./assets/img/krish.png" alt="">
+              <div class="about_section_team_overlay">
+                <h4>Krish</h4>
+                <p>D.Arch</p>
+                <div class="about_section_social">
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="about_section_team_card">
+              <img src="./assets/img/sowmya.png" alt="">
+              <div class="about_section_team_overlay">
+                <h4>Sowmya</h4>
+                <p>D.Arch</p>
+                <div class="about_section_social">
+                  <a href="#"><i class="bi bi-linkedin"></i></a>
+                  <a href="#"><i class="bi bi-instagram"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-6">
+            <div class="about_section_team_card">
+              <img src="./assets/img/sai.png" alt="">
+              <div class="about_section_team_overlay">
+                <h4>Sai</h4>
+                <p>Site Incharge</p>
                 <div class="about_section_social">
                   <a href="#"><i class="bi bi-linkedin"></i></a>
                   <a href="#"><i class="bi bi-instagram"></i></a>

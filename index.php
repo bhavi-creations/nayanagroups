@@ -157,10 +157,20 @@
                     </div>
 
                     <div class="col-6 col-md-6 col-lg-4">
-                        <div class="index_section_service_card">
+                        <!-- <div class="index_section_service_card">
                             <i class="bi bi-tools index_section_service_icon"></i>
                             <h4>Renovation</h4>
                             <p>Transforming existing spaces with modern designs, improved functionality, and lasting value.</p>
+                            
+                        </div> -->
+
+
+                        <div class="index_section_service_card">
+                            <i class="bi bi-tools index_section_service_icon"></i>
+                            <!-- <h4>Renovation</h4>
+                            <p>Transforming existing spaces with modern designs, improved functionality, and lasting value.</p> -->
+                            <h4>Urban planning</h4>
+                            <p> Designing modern urban spaces with sustainable growth, efficient planning, and enhanced livability.</p>
                             
                         </div>
                     </div>

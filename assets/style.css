@@ -745,6 +745,22 @@
       .about_section_journey_title{font-size:28px;}
     }
 
+.aboutTeamSwiper{
+    width:100%;
+    overflow:hidden;
+}
+
+.aboutTeamSwiper .swiper-slide{
+    height:auto;
+}
+
+.about_section_team_card{
+    margin-bottom:0;
+}
+
+
+
+
     /* service section   */
     
     /* HERO */
@@ -949,7 +965,7 @@
       padding:35px 42px;
       background:
         linear-gradient(90deg,rgba(7,11,13,.98),rgba(7,11,13,.78)),
-        url('https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?auto=format&fit=crop&w=1400&q=80');
+        url('');
       background-size:cover;
       background-position:center;
     }
