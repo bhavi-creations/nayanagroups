@@ -165,13 +165,13 @@
 
             </div>
 
-            <div class="projects_section_pagination">
+            <!-- <div class="projects_section_pagination">
                 <div class="projects_section_page_arrow"><i class="bi bi-arrow-left"></i></div>
                 <a href="#" class="projects_section_page_number active">01</a>
                 <a href="#" class="projects_section_page_number">02</a>
                 <a href="#" class="projects_section_page_number">03</a>
                 <div class="projects_section_page_arrow"><i class="bi bi-arrow-right"></i></div>
-            </div>
+            </div> -->
         </div>
     </section>
 

@@ -34,12 +34,12 @@
                 <div class="row">
                     <div class="col-md-3 col-6 index_section_stat_box">
                         <i class="bi bi-buildings"></i>
-                        <div class="index_section_stat_number">280+</div>
+                        <div class="index_section_stat_number">300+</div>
                         <div class="index_section_stat_label">Current Clients</div>
                     </div>
                     <div class="col-md-3 col-6 index_section_stat_box">
                         <i class="bi bi-person"></i>
-                        <div class="index_section_stat_number">10+</div>
+                        <div class="index_section_stat_number">11+</div>
                         <div class="index_section_stat_label">years of experience</div>
                     </div>
                     <div class="col-md-3 col-6 index_section_stat_box">
@@ -50,7 +50,7 @@
                     
                     <div class="col-md-3 col-6 index_section_stat_box">
                         <i class="bi bi-people"></i>
-                        <div class="index_section_stat_number"> 250 +</div>
+                        <div class="index_section_stat_number"> 350 +</div>
                         <div class="index_section_stat_label">Happy Clients</div>
                     </div>
                 </div>
@@ -108,19 +108,25 @@
             </div>
         </div>
     </div>
+
+    <div class="text-center mt-5" >
+                    <a href="projects.php" class="index_section_view_btn d-none d-md-inline-block" style="border-radius: 20px;">VIEW ALL PROJECTS <i class="bi bi-arrow-right ms-2"></i></a>
+
+    </div>
 </section>
+
 
 <section class="index_section_area">
     <div class="container">
-        <div class="row g-4 align-items-start">
-            <div class="col-lg-3">
-                <div class="index_section_small_title">OUR SERVICES</div>
-                <h2 class="index_section_title">End-to-end design & construction solutions.</h2>
-            </div>
+        
+            
+                <div class="index_section_small_title text-center">OUR SERVICES</div>
+                <h2 class="index_section_title text-center">End-to-end design & construction solutions.</h2>
+            
 
-            <div class="col-lg-9">
+            <div class="row g-4 align-items-start">
                 <div class="row g-4">
-                    <div class="col-6 col-md-6 col-lg-4">
+                    <div class="col-12 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-bank index_section_service_icon"></i>
                             <h4>Architecture</h4>
@@ -129,7 +135,7 @@
                         </div>
                     </div>
 
-                    <div class="col-6 col-md-6 col-lg-4">
+                    <div class="col-12 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-bounding-box index_section_service_icon"></i>
                             <h4>Interior Design</h4>
@@ -138,7 +144,7 @@
                         </div>
                     </div>
 
-                    <div class="col-6 col-md-6 col-lg-4">
+                    <div class="col-12 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-building index_section_service_icon"></i>
                             <h4>Construction</h4>
@@ -147,7 +153,7 @@
                         </div>
                     </div>
 
-                    <div class="col-6 col-md-6 col-lg-4">
+                    <div class="col-12 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-person-workspace index_section_service_icon"></i>
                             <h4>Project Management</h4>
@@ -156,26 +162,16 @@
                         </div>
                     </div>
 
-                    <div class="col-6 col-md-6 col-lg-4">
-                        <!-- <div class="index_section_service_card">
+                    <div class="col-12 col-md-6 col-lg-4">
+                        <div class="index_section_service_card">
                             <i class="bi bi-tools index_section_service_icon"></i>
                             <h4>Renovation</h4>
                             <p>Transforming existing spaces with modern designs, improved functionality, and lasting value.</p>
                             
-                        </div> -->
-
-
-                        <div class="index_section_service_card">
-                            <i class="bi bi-tools index_section_service_icon"></i>
-                            <!-- <h4>Renovation</h4>
-                            <p>Transforming existing spaces with modern designs, improved functionality, and lasting value.</p> -->
-                            <h4>Urban planning</h4>
-                            <p> Designing modern urban spaces with sustainable growth, efficient planning, and enhanced livability.</p>
-                            
                         </div>
                     </div>
 
-                    <div class="col-6 col-md-6 col-lg-4">
+                    <div class="col-12 col-md-6 col-lg-4">
                         <div class="index_section_service_card">
                             <i class="bi bi-flower1 index_section_service_icon"></i>
                             <h4>Landscape Design</h4>
@@ -185,7 +181,9 @@
                     </div>
                 </div>
             </div>
-        </div>
+        <div class="text-center mt-3">
+                    <a href="services.php" class="index_section_primary_btn ">MORE SERVICES <i class="bi bi-arrow-right"></i></a>
+</div>
     </div>
 </section>
 

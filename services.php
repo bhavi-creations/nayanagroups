@@ -34,7 +34,7 @@
                         <div class="service_section_icon"><i class="bi bi-bank"></i></div>
                         <div class="service_section_number">01</div>
                         <h3>Architecture Design</h3>
-                        <p>Crafting innovative architectural designs that blend creativity, functionality, and timeless aesthetics.</p>
+                        <p>Comprehensive design services from conceptualization to execution</p>
                         <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                         <div class="service_section_icon"><i class="bi bi-lamp"></i></div>
                         <div class="service_section_number">02</div>
                         <h3>Interior Design</h3>
-                        <p>Creating elegant and functional interiors that blend comfort, style, and personalized design.</p>
+                        <p>Creating cohesive and functional interior environments</p>
                         <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
@@ -59,8 +59,9 @@
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-building"></i></div>
                         <div class="service_section_number">03</div>
-                        <h3>Construction</h3>
-                        <p>Quality construction with precision, transparency and on-time delivery.</p>
+                        <h3>Urban Planning</h3>
+                        <p>Designing sustainable and innovative urban spaces
+</p>
                         <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
@@ -73,7 +74,8 @@
                         <div class="service_section_icon"><i class="bi bi-person-workspace"></i></div>
                         <div class="service_section_number">04</div>
                         <h3>Project Management</h3>
-                        <p>Planning, coordinating, and delivering projects with precision and efficiency.</p>
+                        <p>Ensuring that every project is delivered on time, within budget, and to the highest standards.
+</p>
                         <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
@@ -85,8 +87,8 @@
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-tools"></i></div>
                         <div class="service_section_number">05</div>
-                        <h3>Renovation</h3>
-                        <p>Transforming existing spaces with modern ideas and expert craftsmanship.</p>
+                        <h3>Sustainability Consulting </h3>
+                        <p>Integrating green building practices and sustainable materials.</p>
                         <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
@@ -98,12 +100,101 @@
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
                         <div class="service_section_number">06</div>
-                        <h3>Landscape</h3>
-                        <p>Thoughtful outdoor spaces that connect nature with architecture beautifully.</p>
+                        <h3>Project Planning</h3>
+                        <p>Define goals, allocate resources, create timelines, and ensure successful execution.</p>
                         <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
             </div>
+
+
+
+
+
+
+
+ <div class="col-lg-4 col-md-6">
+                <div class="service_section_card">
+                    <img class="service_section_card_img" src="./assets/img/inteterior.png">
+                    <div class="service_section_card_body">
+                        <div class="service_section_icon"><i class="bi bi-lamp"></i></div>
+                        <div class="service_section_number">07</div>
+                        <h3>Design Coordination</h3>
+                        <p>Streamline designs, enhance collaboration, ensure quality, and achieve project success.</p>
+                        <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="service_section_card">
+                    <img class="service_section_card_img" src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=800&q=80">
+                    <div class="service_section_card_body">
+                        <div class="service_section_icon"><i class="bi bi-building"></i></div>
+                        <div class="service_section_number">08</div>
+                        <h3>Premits And  <br>Approvals</h3>
+                        <p>Obtain required permits, ensure regulatory compliance, and streamline approval processes.</p>
+                        <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="service_section_card">
+                    <img class="service_section_card_img" src="./assets/img/Project_Management.jpg">
+                    <div class="service_section_card_body">
+                        <div class="service_section_icon"><i class="bi bi-person-workspace"></i></div>
+                        <div class="service_section_number">09</div>
+                        <h3>Construction Oversight</h3>
+                        <p>Monitor progress, ensure quality, manage safety, and deliver projects efficiently.</p>
+                        <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="service_section_card">
+                    <img class="service_section_card_img" src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=800&q=80">
+                    <div class="service_section_card_body">
+                        <div class="service_section_icon"><i class="bi bi-tools"></i></div>
+                        <div class="service_section_number">10</div>
+                        <h3>Budget Management</h3>
+                        <p>Control costs, optimize resources, track expenses, and maximize project value.</p>
+                        <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6">
+                <div class="service_section_card">
+                    <img class="service_section_card_img" src="./assets/img/Landscape.jfif">
+                    <div class="service_section_card_body">
+                        <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
+                        <div class="service_section_number">11</div>
+                        <h3>Post Construction</h3>
+                        <p>Conduct final inspections, resolve issues, ensure quality, and support project completion.</p>
+                        <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
+                    </div>
+                </div>
+            </div>
+
+             <div class="col-lg-4 col-md-6">
+                <div class="service_section_card">
+                    <img class="service_section_card_img" src="./assets/img/Landscape.jfif">
+                    <div class="service_section_card_body">
+                        <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
+                        <div class="service_section_number">11</div>
+                        <h3>Communication</h3>
+                        <p>Foster clear communication, ensure collaboration, resolve issues, and achieve project success.</p>
+                        <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            
         </div>
     </div>
 </section>
@@ -195,3 +286,10 @@
     </div>
 </section>
 <?php include 'footer.php'; ?>
+
+
+
+
+
+
+

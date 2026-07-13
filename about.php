@@ -18,7 +18,11 @@
           </h1>
 
           <p class="about_section_text">
-            NAYANA GROUP is a premier architectural practice committed to transforming spac novative and sustainable design solutions with a deep understanding of the relationship t built environment and its users, we craft spaces that are not only aesthetically pleasi functional and environmentally responsible
+            <!-- NAYANA GROUP is a premier architectural practice committed to transforming spac novative and sustainable design solutions with a deep understanding of the relationship t built environment and its users, we craft spaces that are not only aesthetically pleasi functional and environmentally responsible -->
+          ΝΛΥΛΝΛ GROUP is a premier architectural practice committed to transforming spaces through innovative and sustainable design solutions with a deep understanding of the relationship between the built environment and its users, we craft spaces that are not only aesthetically pleasing but also functional and environmentally responsible.
+
+          
+          
           </p>
 
           <div class="about_section_signature">Nayana Satya Reddy</div>
@@ -122,7 +126,7 @@
     <div class="row gy-4">
       <div class="col-lg col-md-6 col-6">
         <div class="about_section_counter_box">
-          <h2>280+
+          <h2>300+
           </h2>
           <p>Current Clients</p>
         </div>
@@ -130,7 +134,7 @@
 
       <div class="col-lg col-md-6 col-6">
         <div class="about_section_counter_box">
-          <h2>250+
+          <h2>350+
           </h2>
           <p>Happy Clients</p>
         </div>
@@ -149,7 +153,7 @@
       <div class="col-lg col-md-6 col-6">
 
         <div class="about_section_counter_box last">
-          <h2>10+</h2>
+          <h2>11+</h2>
           <p>Years of Experience</p>
         </div>
       </div>
@@ -207,26 +211,26 @@
 <!-- TEAM -->
 <section class="about_section_team">
   <div class="container">
-    <div class="row g-4 align-items-start">
-      <div class="col-lg-3">
-        <div class="about_section_small_title">OUR LEADERSHIP</div>
-        <h2 class="about_section_team_heading">The minds behind our success.</h2>
-        <div class="about_section_line ms-0 mb-4"></div>
+    <div class="">
+      <div class="">
+        <div class=" about_section_small_title ">OUR LEADERSHIP</div>
+        <h2 class="about_section_team_heading text-center">The minds behind our success.</h2>
+        <!-- <div class="about_section_line ms-0 mb-4"></div> -->
 
-        <p class="about_section_team_text">
+        <!-- <p class="about_section_team_text">
           A passionate team of architects, designers and engineers committed to excellence in every project.
-        </p>
+        </p> -->
 
         <!-- <a href="#" class="about_section_team_btn">
           MEET THE TEAM <i class="bi bi-arrow-right"></i>
         </a> -->
       </div>
 
-      <div class="col-lg-9">
-        <div class="row g-4">
+      <div class="row g-4 align-items-start">
+     <div class="row g-4">
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/satya reddy.png" alt="">
+              <img src="./assets/img/satya reddy.png" alt="" class="img-fluid" >
               <div class="about_section_team_overlay">
                 <h4>Ar. Satya Reddy</h4>
                 <p>M.Arch, MBA, AIIA, IIID</p>
@@ -240,7 +244,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/jyothrmayi.png" alt="">
+              <img src="./assets/img/jyothrmayi.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Jyotirmayi</h4>
                 <p>MBA</p>
@@ -254,7 +258,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/pavan.png" alt="">
+              <img src="./assets/img/pavan.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Ar. Pavan</h4>
                 <p>B.Arch</p>
@@ -268,7 +272,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/prasad.png" alt="">
+              <img src="./assets/img/prasad.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Ar. T.D.Prasad</h4>
                 <p>B.Arch</p>
@@ -282,7 +286,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/seshu.png" alt="">
+              <img src="./assets/img/seshu.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Er. Seshu</h4>
                 <p>Civil Engineer</p>
@@ -296,7 +300,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/sridhar.png" alt="">
+              <img src="./assets/img/sridhar.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Er. Sridhar</h4>
                 <p>Civil</p>
@@ -311,7 +315,7 @@
 
            <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/vinay.png" alt="">
+              <img src="./assets/img/vinay.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Er. Vinay</h4>
                 <p>Civil</p>
@@ -325,7 +329,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/krish.png" alt="">
+              <img src="./assets/img/krish.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Krish</h4>
                 <p>D.Arch</p>
@@ -339,7 +343,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/sowmya.png" alt="">
+              <img src="./assets/img/sowmya.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Sowmya</h4>
                 <p>D.Arch</p>
@@ -353,7 +357,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="about_section_team_card">
-              <img src="./assets/img/sai.png" alt="">
+              <img src="./assets/img/sai.png" alt="" class="img-fluid">
               <div class="about_section_team_overlay">
                 <h4>Sai</h4>
                 <p>Site Incharge</p>
@@ -366,6 +370,8 @@
           </div>
 
         </div>
+     
+     
       </div>
     </div>
   </div>
@@ -373,3 +379,7 @@
 
 
 <?php include 'footer.php'; ?>
+
+
+
+
