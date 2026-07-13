@@ -179,28 +179,28 @@
 
       <div class="about_section_timeline_item">
         <div class="about_section_timeline_icon"><i class="bi bi-bar-chart-line"></i></div>
-        <h4>2016</h4>
+        <h4>2018</h4>
         <h5>Growing Strong</h5>
         <p>Expanded our team and delivered multiple successful projects.</p>
       </div>
 
       <div class="about_section_timeline_item">
         <div class="about_section_timeline_icon"><i class="bi bi-graph-up-arrow"></i></div>
-        <h4>2018</h4>
+        <h4>2020</h4>
         <h5>New Horizons</h5>
         <p>Ventured into commercial and large scale projects.</p>
       </div>
 
       <div class="about_section_timeline_item">
         <div class="about_section_timeline_icon"><i class="bi bi-trophy"></i></div>
-        <h4>2021</h4>
+        <h4>2023</h4>
         <h5>Milestone Achieved</h5>
         <p>Reached 200+ projects and a growing list of happy clients.</p>
       </div>
 
       <div class="about_section_timeline_item">
         <div class="about_section_timeline_icon"><i class="bi bi-star"></i></div>
-        <h4>2024</h4>
+        <h4>2026</h4>
         <h5>Looking Ahead</h5>
         <p>Continuing our journey to create inspiring and sustainable spaces.</p>
       </div>
