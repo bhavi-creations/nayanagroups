@@ -378,6 +378,75 @@
 </section>
 
 
+
+
+
+
+
+
+
+
+
+<section class="our_staff_section">
+    <div class="container">
+        <!-- Section Heading (Optional) -->
+        <div class="text-center mb-5">
+            <h2 class="section-title">Our Staff</h2>
+            <p class="section-subtitle">Meet our dedicated team members</p>
+        </div>
+
+        <div class="row g-4">
+            <!-- Staff Member 1 -->
+            <div class="col-12 col-md-4">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <!-- Image cut avvakunda as-is ga display avuthundi -->
+                        <img src="./assets/img/satya reddy.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">John Doe</h4>
+                        <p class="staff-designation">Senior Developer</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Staff Member 2 -->
+            <div class="col-12 col-md-4">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/satya reddy.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Jane Smith</h4>
+                        <p class="staff-designation">UI/UX Designer</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Staff Member 3 -->
+            <div class="col-12 col-md-4">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/satya reddy.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Alex Johnson</h4>
+                        <p class="staff-designation">Project Manager</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+
+
+
+
 <?php include 'footer.php'; ?>
 
 

@@ -1,4 +1,4 @@
-<?php include 'navbar.php' ; ?>
+<?php include 'navbar.php'; ?>
 
 
 
@@ -7,8 +7,8 @@
     <div class="carrer_section_small_title">Careers</div>
 
     <h1 class="carrer_section_hero_title">
-     Smart Interiors.<br>
-     <span>Brighter Futures</span>
+      Smart Interiors.<br>
+      <span>Brighter Futures</span>
     </h1>
 
     <p class="carrer_section_hero_text">
@@ -77,78 +77,71 @@
       </div>
     </div> -->
 
-<!-- new section  -->
- <div class="carrer_section_values">
+    <!-- new section  -->
+    <div class="carrer_section_values">
 
- <h2 class="carrer_section_heading  d-flex justify-content-center d-block d-lg-none">
-         
-           <span> OUR VALUES.</span>
-        </h2>
+      <h2 class="carrer_section_heading text-center  ">
 
-   <!-- <div class="d-flex justify-content-center my-5 d-block d-lg-none">
-                <h4 style="color:var(--index_section_gold);font-weight:800;">
-                    OUR<br>VALUES
-                </h4> 
-            </div> -->
-    <div class="row gy-4">
+        <span  > OUR VALUES.</span>
+      </h2>
 
-        <!-- OUR VALUES -->
-         <div class="col-6 col-md-6 col-lg-2 d-none d-lg-block">
-           <div class="carrer_section_value_box">
-                 <h2 class="carrer_section_heading  d-flex align-items-center justify-content-center ">
-         
-           <span> OUR <br> VALUES</span>
-        </h2>
-            </div>
-         </div>
+
+      <div class="row gy-4">
+
+        
+       
 
         <!-- Creativity -->
-        <div class="col-6 col-md-6 col-lg-2">
-            <div class="carrer_section_value_box">
-                <i class="bi bi-lightbulb"></i>
-                <h4>Creativity</h4>
-                <p>We transform ideas into innovative and functional designs.</p>
-            </div>
+        <div class="col-6 col-md-6 col-lg-4">
+          <div class="carrer_section_value_box">
+            <i class="bi bi-lightbulb"></i>
+            <h4>Creativity</h4>
+            <p>We transform ideas into innovative and functional designs.</p>
+          </div>
         </div>
 
         <!-- Integrity -->
-        <div class="col-6 col-md-6 col-lg-2">
-            <div class="carrer_section_value_box">
-                <i class="bi bi-people"></i>
-                <h4>Integrity</h4>
-                <p>We build trust through transparency, professionalism, and commitment.</p>
-            </div>
+        <div class="col-6 col-md-6 col-lg-4">
+          <div class="carrer_section_value_box">
+            <i class="bi bi-people"></i>
+            <h4>Integrity</h4>
+            <p>We build trust through transparency, professionalism, and commitment.</p>
+          </div>
         </div>
 
         <!-- Quality -->
-        <div class="col-6 col-md-6 col-lg-2">
-            <div class="carrer_section_value_box">
-                <i class="bi bi-award"></i>
-                <h4>Quality</h4>
-                <p>We strive for excellence in every project we undertake.</p>
-            </div>
+        <div class="col-6 col-md-6 col-lg-4">
+          <div class="carrer_section_value_box">
+            <i class="bi bi-award"></i>
+            <h4>Quality</h4>
+            <p>We strive for excellence in every project we undertake.</p>
+          </div>
         </div>
 
         <!-- Sustainability -->
-        <div class="col-6 col-md-6 col-lg-2">
-            <div class="carrer_section_value_box">
-                <i class="bi bi-feather"></i>
-                <h4>Sustainability</h4>
-                <p>We promote responsible design practices for a better future.</p>
-            </div>
+        <div class="col-6 col-md-6 col-lg-5">
+          <div class="carrer_section_value_box">
+            <i class="bi bi-feather"></i>
+            <h4>Sustainability</h4>
+            <p>We promote responsible design practices for a better future.</p>
+          </div>
         </div>
 
         <!-- Growth -->
-        <!-- <div class="col-12 col-lg-2">
+        <div class="col-12 col-lg-5">
             <div class="carrer_section_value_box last">
                 <i class="bi bi-graph-up-arrow"></i>
                 <h4>Growth</h4>
                 <p>We encourage continuous learning and professional development.</p>
             </div>
-        </div> -->
+        </div>
 
+        <div class="col-12 col-lg-2">
+            
+        </div>
+
+      </div>
     </div>
-</div>
 
 
 
@@ -163,43 +156,43 @@
         <div class="carrer_section_small_title">Why Join Nayana Groups?</div>
         <h2 class="carrer_section_heading">
           Grow With Purpose.<br>
-           <span>Design With Passion.</span>
+          <span>Design With Passion.</span>
         </h2>
         <p class="carrer_section_text">
           We offer an environment where talent is nurtured, creativity is valued, and every contribution makes a difference.
         </p>
 
         <ul class="carrer_section_check_list">
-    <li>
-        <i class="bi bi-check-circle"></i>
-        <span>Exciting architecture and interior design projects</span>
-    </li>
+          <li>
+            <i class="bi bi-check-circle"></i>
+            <span>Exciting architecture and interior design projects</span>
+          </li>
 
-    <li>
-        <i class="bi bi-check-circle"></i>
-        <span>Opportunities to learn from experienced professionals</span>
-    </li>
+          <li>
+            <i class="bi bi-check-circle"></i>
+            <span>Opportunities to learn from experienced professionals</span>
+          </li>
 
-    <li>
-        <i class="bi bi-check-circle"></i>
-        <span>Supportive and collaborative work culture</span>
-    </li>
+          <li>
+            <i class="bi bi-check-circle"></i>
+            <span>Supportive and collaborative work culture</span>
+          </li>
 
-    <li>
-        <i class="bi bi-check-circle"></i>
-        <span>Career growth and skill development</span>
-    </li>
+          <li>
+            <i class="bi bi-check-circle"></i>
+            <span>Career growth and skill development</span>
+          </li>
 
-    <li>
-        <i class="bi bi-check-circle"></i>
-        <span>Work-life balance and employee well-being</span>
-    </li>
+          <li>
+            <i class="bi bi-check-circle"></i>
+            <span>Work-life balance and employee well-being</span>
+          </li>
 
-    <li>
-        <i class="bi bi-check-circle"></i>
-        <span>Recognition for innovation and excellence</span>
-    </li>
-</ul>
+          <li>
+            <i class="bi bi-check-circle"></i>
+            <span>Recognition for innovation and excellence</span>
+          </li>
+        </ul>
       </div>
     </div>
 
@@ -338,4 +331,4 @@
 
   </div>
 </section>
-<?php include 'footer.php' ; ?>
+<?php include 'footer.php'; ?>

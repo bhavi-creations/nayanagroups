@@ -71,8 +71,8 @@
                 <div class="service_section_card">
                     <img class="service_section_card_img" src="./assets/img/Project_Management.jpg">
                     <div class="service_section_card_body">
-                        <div class="service_section_icon"><i class="bi bi-person-workspace"></i></div>
-                        <div class="service_section_number">04</div>
+                        <div class="service_section_icon"><div class="service_section_number">04</div></div>
+                        
                         <h3>Project Management</h3>
                         <p>Ensuring that every project is delivered on time, within budget, and to the highest standards.
 </p>

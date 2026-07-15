@@ -4435,3 +4435,80 @@
 
 
   }
+
+
+  /* stylings for stylings  */
+  /* Main Section Styling */
+.our_staff_section {
+    padding: 60px 0;
+    background-color: #f9f9f9; /* Meeku kavalasina bg color pettukovachu */
+}
+
+.section-title {
+    font-size: 2.25rem;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+.section-subtitle {
+    color: #666;
+    font-size: 1rem;
+}
+
+/* Staff Card Layout */
+.staff-card {
+    background: #ffffff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    transition: transform 0.3s ease;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.staff-card:hover {
+    transform: translateY(-5px);
+}
+
+/* Image Container - Dynamic Handling */
+.staff-img-wrapper {
+    width: 100%;
+    height: 350px; /* Card display height */
+    background-color: #eaeaea; /* Dynamic blank space fill background */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    padding: 10px; /* Image borders cut avvakunda safe space */
+}
+
+.staff-img {
+    width: 100%;
+    height: 100%;
+    /* MAIN TRICK: Image dimensional crop avvakunda frame lo perfectly adjust avuthundi */
+    object-fit: contain; 
+    object-position: center;
+}
+
+/* Info Styling Below Image */
+.staff-info {
+    padding: 20px;
+    background: #ffffff;
+    margin-top: auto; /* Push content to bottom if image sizes differ slightly */
+}
+
+.staff-name {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: #222;
+    margin-bottom: 5px;
+}
+
+.staff-designation {
+    font-size: 0.95rem;
+    color: #007bff; /* Accent color for designation */
+    margin-bottom: 0;
+    font-weight: 500;
+}
