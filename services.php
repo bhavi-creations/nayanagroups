@@ -71,11 +71,11 @@
                 <div class="service_section_card">
                     <img class="service_section_card_img" src="./assets/img/Project_Management.jpg">
                     <div class="service_section_card_body">
-                        <div class="service_section_icon"><div class="service_section_number">04</div></div>
+                        <div class="service_section_icon"></div>
+                        <div class="service_section_number">04</div>
                         
                         <h3>Project Management</h3>
-                        <p>Ensuring that every project is delivered on time, within budget, and to the highest standards.
-</p>
+                        <p>Ensuring that every project is delivered on time, within budget, and to the highest standards.</p>
                         <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->
                     </div>
                 </div>
@@ -83,7 +83,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=800&q=80">
+                    <img class="service_section_card_img" src="./assets/img/Sustainability-consulting.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-tools"></i></div>
                         <div class="service_section_number">05</div>
@@ -96,7 +96,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Landscape.jfif">
+                    <img class="service_section_card_img" src="./assets/img/Project-planning.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
                         <div class="service_section_number">06</div>
@@ -115,7 +115,7 @@
 
  <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/inteterior.png">
+                    <img class="service_section_card_img" src="./assets/img/Design-coordination.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-lamp"></i></div>
                         <div class="service_section_number">07</div>
@@ -128,7 +128,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=800&q=80">
+                    <img class="service_section_card_img" src="./assets/img/Permits-and-Approvals.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-building"></i></div>
                         <div class="service_section_number">08</div>
@@ -141,7 +141,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Project_Management.jpg">
+                    <img class="service_section_card_img" src="./assets/img/Construction-Oversight.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-person-workspace"></i></div>
                         <div class="service_section_number">09</div>
@@ -154,7 +154,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="https://images.unsplash.com/photo-1600210492486-724fe5c67fb0?auto=format&fit=crop&w=800&q=80">
+                    <img class="service_section_card_img" src="./assets/img/Budget-Management.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-tools"></i></div>
                         <div class="service_section_number">10</div>
@@ -167,7 +167,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Landscape.jfif">
+                    <img class="service_section_card_img" src="./assets/img/Post-Construction.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
                         <div class="service_section_number">11</div>
@@ -180,10 +180,10 @@
 
              <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Landscape.jfif">
+                    <img class="service_section_card_img" src="./assets/img/Communication-img.png">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
-                        <div class="service_section_number">11</div>
+                        <div class="service_section_number">12</div>
                         <h3>Communication</h3>
                         <p>Foster clear communication, ensure collaboration, resolve issues, and achieve project success.</p>
                         <!-- <a href="#" class="service_section_learn">LEARN MORE <i class="bi bi-arrow-right"></i></a> -->

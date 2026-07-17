@@ -247,7 +247,7 @@
         }
 
         .index_section_service_card {
-            border: 1px solid rgba(255, 255, 255, .15);
+            border: 2px solid #efb58e;
             padding: 28px;
             min-height: 165px;
             height: 100%;
@@ -452,8 +452,9 @@
       display:flex;
       gap:25px;
       padding:0 0 35px;
-      margin-bottom:35px;
+      margin-bottom:15px;
       border-bottom:1px solid rgba(255,255,255,.12);
+      border: 2px solid #efb58e;
     }
 
     .about_section_feature_item:last-child{
@@ -882,12 +883,20 @@
     }
 
     .service_section_number{
-      position:absolute;
-      right:25px;
-      top:-4px;
-      font-family:'Playfair Display',serif;
-      font-size:35px;
-      color:rgba(255,255,255,.23);
+      width: 58px;
+      height: 58px;
+      background: #efb58e;
+      color: #111;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: absolute;
+      top: -30px;
+      left: 25px;
+      font-family: 'Playfair Display', serif;
+     font-size: 35px;
+     font-weight: 600;
+     line-height: 1;
     }
 
     .service_section_card h3{
@@ -2612,6 +2621,7 @@
       border-right:1px solid rgba(255,255,255,.13);
       min-height:120px;
       padding:0 20px;
+      border: 2px solid #efb58e;
     }
 
     .carrer_section_value_box.last{
@@ -3319,7 +3329,7 @@
 /* Contact us page our vision, our mission, our values, sustainability icons in mobile response  */
 .about_section_philosophy_card{
     background:#111111;
-    border:1px solid rgba(255,255,255,0.08);
+    border: 2px solid #efb58e;
     border-radius:12px;
     padding:25px 20px;
     height:100%;
@@ -3580,7 +3590,7 @@
         text-align:center;
         padding:20px 15px;
         background:#111;
-        border:1px solid rgba(255,255,255,0.08);
+        border: 2px solid #efb58e;
         border-radius:12px;
         height:100%;
     }
@@ -3621,7 +3631,7 @@
         align-items:center;
         text-align:center;
         padding:20px 12px;
-        border:1px solid rgba(255,255,255,0.08);
+        border: 2px solid #efb58e;
         border-radius:12px;
         background:#111;
         height:100%;
@@ -3785,25 +3795,25 @@
 @media (min-width:768px) and (max-width:991px){
 
     /* Hero Content Center Alignment */
-    .gallery_section_hero{
+    /* .gallery_section_hero{
         text-align:center;
-    }
+    } */
 
     .gallery_section_small_title{
         justify-content:center;
     }
 
     .gallery_section_hero_title{
-        text-align:center;
+        /* text-align:center; */
         margin-left:auto;
         margin-right:auto;
     }
 
-    .gallery_section_hero_text{
+    /* .gallery_section_hero_text{
         max-width:650px;
         margin:0 auto;
         text-align:center;
-    }
+    } */
 
     /* Filter Buttons - 3 Per Row */
     .gallery_section_filters{
@@ -3828,25 +3838,25 @@
 /* Our blogs page Mobile + Tablet Hero Alignment */
 @media (max-width:991px){
 
-    .blogs_section_hero{
+    /* .blogs_section_hero{
         text-align:center;
-    }
+    } */
 
     .blogs_section_small_title{
         justify-content:center;
     }
 
-    .blogs_section_hero_title{
+    /* .blogs_section_hero_title{
         text-align:center;
         margin-left:auto;
         margin-right:auto;
-    }
+    } */
 
-    .blogs_section_hero_text{
+    /* .blogs_section_hero_text{
         max-width:650px;
         margin:0 auto 20px;
         text-align:center;
-    }
+    } */
 
     .blogs_section_breadcrumb{
         justify-content:center;
@@ -3910,49 +3920,62 @@
 
 }
 
-/* Contact section mobile + tab response for hero content with alignment */
-@media (max-width:991px){
+
+@media (max-width:1199px){
 
     .contact_section_hero{
-        text-align:center;
+        display:flex;
+        align-items:center;
+    }
+
+    .contact_section_hero .container{
+        display:flex;
+        flex-direction:column;
+        justify-content:center;
+        align-items:flex-start;
     }
 
     .contact_section_small_title{
-        justify-content:center;
-        text-align:center;
+        display:inline-flex;
+        align-items:center;
+        justify-content:flex-start;
+        text-align:left;
+        margin-bottom:18px;
     }
 
     .contact_section_hero_title{
-        text-align:center;
-        margin-left:auto;
-        margin-right:auto;
-        line-height:1.2;
+        text-align:left;
+        margin:0 0 24px;
+        max-width:520px;
+        line-height:1.08;
     }
 
     .contact_section_hero_text{
-        max-width:600px;
-        margin:20px auto;
-        text-align:center;
-        line-height:1.7;
+        text-align:left;
+        max-width:470px;
+        margin:0 0 28px;
+        line-height:1.8;
     }
 
     .contact_section_hero_info{
         display:flex;
-        flex-direction:column;
+        flex-wrap:wrap;
+        flex-direction:row;
+        justify-content:flex-start;
         align-items:center;
-        justify-content:center;
-        gap:12px;
-        text-align:center;
+        gap:28px;
+        text-align:left;
     }
 
     .contact_section_hero_info span{
         display:flex;
         align-items:center;
-        justify-content:center;
-        gap:8px;
+        gap:12px;
     }
 
 }
+
+
 
 /* Tablet View Only - Counter Section */
 @media (min-width:768px) and (max-width:991px){
@@ -3979,20 +4002,20 @@
 @media (min-width:992px) and (max-width:1200px){
 
     /* Hero Section */
-    .index_section_hero .container{
+    /* .index_section_hero .container{
         max-width:1200px;
         text-align:center;
-    }
+    } */
 
-    .index_section_hero_title{
+    /* .index_section_hero_title{
         max-width:900px;
         margin:0 auto 25px;
-    }
+    } */
 
-    .index_section_hero_text{
-        max-width:750px;
+    /* .index_section_hero_text{
+        max-width:940px;
         margin:0 auto 35px;
-    }
+    } */
 
     /* Stats Section */
     .index_section_intro_text{
@@ -4118,7 +4141,7 @@
     }
 
     .about_section_hero_content{
-        text-align:center;
+        /* text-align:center; */
         padding:40px 35px;
     }
 
@@ -4135,10 +4158,10 @@
         line-height:1.8;
     }
 
-    .about_section_signature,
+    /* .about_section_signature,
     .about_section_designation{
         text-align:center;
-    }
+    } */
 
     /* Cards moved below hero */
     .about_section_hero .col-lg-3{
@@ -4191,27 +4214,27 @@
         white-space:nowrap;
     }
 
-    .projects_section_hero .container{
+    /* .projects_section_hero .container{
         text-align:center;
         max-width:900px;
-    }
+    } */
 
     .projects_section_small_title{
         justify-content:center;
         text-align:center;
     }
 
-    .projects_section_hero_title{
+    /* .projects_section_hero_title{
         max-width:700px;
         margin:0 auto 25px;
         line-height:1.2;
-    }
+    } */
 
-    .projects_section_hero_text{
+    /* .projects_section_hero_text{
         max-width:700px;
         margin:0 auto 35px;
         line-height:1.8;
-    }
+    } */
 
     .projects_section_hero .service_section_primary_btn{
         display:inline-flex;
@@ -4224,27 +4247,27 @@
 /* SERVICES HERO - LAPTOP VIEW ONLY */
 @media (min-width:992px) and (max-width:1200px){
 
-    .service_section_hero .container{
+    /* .service_section_hero .container{
         text-align:center;
         max-width:900px;
-    }
+    } */
 
     .service_section_small_title{
         text-align:center;
         justify-content:center;
     }
 
-    .service_section_hero_title{
+    /* .service_section_hero_title{
         max-width:700px;
         margin:0 auto 25px;
         line-height:1.2;
-    }
+    } */
 
-    .service_section_hero_text{
+    /* .service_section_hero_text{
         max-width:700px;
         margin:0 auto 35px;
         line-height:1.8;
-    }
+    } */
 
     .service_section_primary_btn{
         display:inline-flex;
@@ -4258,24 +4281,24 @@
 @media (min-width:992px) and (max-width:1200px){
 
     /* Hero Content Center Alignment */
-    .gallery_section_hero .container{
+    /* .gallery_section_hero .container{
         text-align:center;
-    }
+    } */
 
     .gallery_section_small_title{
         justify-content:center;
-        text-align:center;
+         text-align:center; 
     }
 
-    .gallery_section_hero_title{
+    /* .gallery_section_hero_title{
         max-width:700px;
         margin:0 auto 20px;
-    }
+    } */
 
-    .gallery_section_hero_text{
+    /* .gallery_section_hero_text{
         max-width:650px;
         margin:0 auto;
-    }
+    } */
 
     /* Filter Buttons - 3 Per Row */
     .gallery_section_filters{
@@ -4304,17 +4327,17 @@
     /* ==========================
        HERO CONTENT CENTER
        ========================== */
-    .carrer_section_hero .container{
+    /* .carrer_section_hero .container{
         text-align:center;
-    }
+    } */
 
     .carrer_section_hero_title{
-        max-width:700px;
+        max-width:940px;
         margin:0 auto 20px;
     }
 
     .carrer_section_hero_text{
-        max-width:750px;
+        max-width:940px;
         margin:0 auto 30px;
     }
 
@@ -4348,6 +4371,7 @@
         height:100%;
         text-align:center;
         padding:25px 20px;
+        border: 2px solid #efb58e;
     }
 
     .carrer_section_value_box i{
@@ -4370,24 +4394,25 @@
 /* Contact Us page For the 992px–1200px laptop range only */
 @media (min-width:992px) and (max-width:1200px){
 
+
     .contact_section_hero .container{
-        text-align:center;
-    }
+    text-align:left;
+}
 
-    .contact_section_hero_title{
-        max-width:700px;
-        margin:0 auto 20px;
-    }
+.contact_section_hero_title{
+    max-width:520px;
+    margin:0 0 24px;
+}
 
-    .contact_section_hero_text{
-        max-width:650px;
-        margin:0 auto 25px;
-    }
+.contact_section_hero_text{
+    max-width:470px;
+    margin:0 0 28px;
+}
 
-    .contact_section_hero_info{
-        justify-content:center;
-        gap:30px;
-    }
+.contact_section_hero_info{
+    justify-content:flex-start;
+    gap:28px;
+}
     
     .contact_section_main .row:first-child{
         align-items:stretch;

@@ -209,21 +209,13 @@
 </section>
 
 <!-- TEAM -->
-<section class="about_section_team">
+<!-- <section class="about_section_team">
   <div class="container">
     <div class="">
       <div class="">
         <div class=" about_section_small_title ">OUR LEADERSHIP</div>
         <h2 class="about_section_team_heading text-center">The minds behind our success.</h2>
-        <!-- <div class="about_section_line ms-0 mb-4"></div> -->
-
-        <!-- <p class="about_section_team_text">
-          A passionate team of architects, designers and engineers committed to excellence in every project.
-        </p> -->
-
-        <!-- <a href="#" class="about_section_team_btn">
-          MEET THE TEAM <i class="bi bi-arrow-right"></i>
-        </a> -->
+       
       </div>
 
       <div class="row g-4 align-items-start">
@@ -375,7 +367,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 
 
 
@@ -387,54 +379,150 @@
 
 
 
-<section class="our_staff_section">
+<section class="about_section_team">
     <div class="container">
         <!-- Section Heading (Optional) -->
-        <div class="text-center mb-5">
+
+ <div class=" about_section_small_title ">Our Staff</div>
+        <h2 class="about_section_team_heading text-center">Meet our dedicated team members</h2>
+
+        <!-- <div class="text-center mb-5">
             <h2 class="section-title">Our Staff</h2>
             <p class="section-subtitle">Meet our dedicated team members</p>
-        </div>
+        </div> -->
 
         <div class="row g-4">
             <!-- Staff Member 1 -->
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-lg-3 col-md-6">
                 <div class="staff-card">
                     <div class="staff-img-wrapper">
                         <!-- Image cut avvakunda as-is ga display avuthundi -->
-                        <img src="./assets/img/satya reddy.png" alt="Staff Name" class="staff-img">
+                        <img src="./assets/img/Ar-Satya-Reddy.png" alt="Staff Name" class="staff-img">
                     </div>
                     <div class="staff-info text-center">
-                        <h4 class="staff-name">John Doe</h4>
-                        <p class="staff-designation">Senior Developer</p>
+                        <h4 class="staff-name">Ar. Satya Reddy</h4>
+                        <p class="staff-designation">M.Arch, MBA, AIIA, IIID</p>
                     </div>
                 </div>
             </div>
 
             <!-- Staff Member 2 -->
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-lg-3 col-md-6">
                 <div class="staff-card">
                     <div class="staff-img-wrapper">
-                        <img src="./assets/img/satya reddy.png" alt="Staff Name" class="staff-img">
+                        <img src="./assets/img/jyothrmayi.png" alt="Staff Name" class="staff-img">
                     </div>
                     <div class="staff-info text-center">
-                        <h4 class="staff-name">Jane Smith</h4>
-                        <p class="staff-designation">UI/UX Designer</p>
+                        <h4 class="staff-name">Jyotirmayi</h4>
+                        <p class="staff-designation">MBA</p>
                     </div>
                 </div>
             </div>
 
             <!-- Staff Member 3 -->
-            <div class="col-12 col-md-4">
+            <div class="col-12 col-lg-3 col-md-6">
                 <div class="staff-card">
                     <div class="staff-img-wrapper">
-                        <img src="./assets/img/satya reddy.png" alt="Staff Name" class="staff-img">
+                        <img src="./assets/img/Ar-Pavan.png" alt="Staff Name" class="staff-img">
                     </div>
                     <div class="staff-info text-center">
-                        <h4 class="staff-name">Alex Johnson</h4>
-                        <p class="staff-designation">Project Manager</p>
+                        <h4 class="staff-name">Ar. Pavan</h4>
+                        <p class="staff-designation">B.Arch</p>
                     </div>
                 </div>
             </div>
+
+            <!-- Staff Member 4 -->
+            <div class="col-12 col-lg-3 col-md-6">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/Ar-TD-Prasad.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Ar. T.D.Prasad</h4>
+                        <p class="staff-designation">B.Arch</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Staff Member 5 -->
+            <div class="col-12 col-lg-3 col-md-6">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/seshu.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Er. Seshu</h4>
+                        <p class="staff-designation">Civil Engineer</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Staff Member 6 -->
+            <div class="col-12 col-lg-3 col-md-6">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/Er-Sridhar.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Er. Sridhar</h4>
+                        <p class="staff-designation">Civil</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Staff Member 7 -->
+            <div class="col-12 col-lg-3 col-md-6">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/Er-Vinay.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Er. Vinay</h4>
+                        <p class="staff-designation">Civil</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Staff Member 8 -->
+            <div class="col-12 col-lg-3 col-md-6">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/Krish-img.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Krish</h4>
+                        <p class="staff-designation">D.Arch</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Staff Member 9 -->
+            <div class="col-12 col-lg-3 col-md-6">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/sowmya.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Sowmya</h4>
+                        <p class="staff-designation">D.Arch</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Staff Member 10 -->
+            <div class="col-12 col-lg-3 col-md-6">
+                <div class="staff-card">
+                    <div class="staff-img-wrapper">
+                        <img src="./assets/img/sai.png" alt="Staff Name" class="staff-img">
+                    </div>
+                    <div class="staff-info text-center">
+                        <h4 class="staff-name">Sai</h4>
+                        <p class="staff-designation">Site Incharge</p>
+                    </div>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
