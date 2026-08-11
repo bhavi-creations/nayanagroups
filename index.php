@@ -1,4 +1,12 @@
-<?php include 'navbar.php'; ?>
+<?php
+// 1. E page specific Meta Details set chesthunnam
+$page_title = "Nayana Group | Architects & Interior Designers in Kakinada  ";
+$page_desc  = "Nayana Group is a leading architecture and interior design company in Kakinada offering construction, project management, renovation and landscape design services.  ";
+$page_keys  = "architects in Kakinada, architecture company in Kakinada, interior designers in Kakinada, interior design company Kakinada, construction company Kakinada, project management Kakinada, renovation services Kakinada, landscape design Kakinada, Nayana Group Kakinada, best architects in Kakinada";
+
+// 2. Ippudu Header include chesthunnam (Paina unna values e header loki pothayi)
+include('navbar.php');
+?>
 <section class="index_section_hero">
     <div class="container">
         <div class="index_section_small_title">DESIGNING SPACES. BUILDING LEGACY.</div>

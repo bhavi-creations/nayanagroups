@@ -10,7 +10,120 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/style.css">
 
+    <link rel="canonical" href="https://nayanagroups.com/">
 
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "LocalBusiness",
+            "@id": "https://nayanagroups.com/#business",
+            "name": "Nayana Group",
+            "url": "https://nayanagroups.com/",
+            "telephone": "+91 96888 87888",
+            "email": "nayanagroup21@gmail.com",
+            "description": "Nayana Group is an architecture and construction company in Kakinada offering architecture, interior design, construction, project management, renovation and landscape design services.",
+            "image": "https://nayanagroups.com/",
+            "priceRange": "$$",
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "Cinema Rd, Ramakrishna Rao Peta",
+                "addressLocality": "Kakinada",
+                "addressRegion": "Andhra Pradesh",
+                "postalCode": "533001",
+                "addressCountry": "IN"
+            },
+            "geo": {
+                "@type": "GeoCoordinates",
+                "addressLocality": "Kakinada",
+                "addressRegion": "Andhra Pradesh",
+                "addressCountry": "IN"
+            },
+            "areaServed": {
+                "@type": "City",
+                "name": "Kakinada"
+            },
+            "openingHoursSpecification": [{
+                "@type": "OpeningHoursSpecification",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday",
+                    "Saturday"
+                ],
+                "opens": "09:00",
+                "closes": "20:00"
+            }],
+            "hasOfferCatalog": {
+                "@type": "OfferCatalog",
+                "name": "Nayana Group Services",
+                "itemListElement": [{
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Architecture",
+                            "areaServed": "Kakinada"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Interior Design",
+                            "areaServed": "Kakinada"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Construction",
+                            "areaServed": "Kakinada"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Project Management",
+                            "areaServed": "Kakinada"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Renovation",
+                            "areaServed": "Kakinada"
+                        }
+                    },
+                    {
+                        "@type": "Offer",
+                        "itemOffered": {
+                            "@type": "Service",
+                            "name": "Landscape Design",
+                            "areaServed": "Kakinada"
+                        }
+                    }
+                ]
+            }
+        }
+    </script>
+
+
+
+
+    <?php
+    // Page lo edaina details ivvakapothe default vi apply avthayi
+    $page_title = isset($page_title) ? $page_title : "Nayana Group | Architects & Interior Designers in Kakinada";
+    $page_desc  = isset($page_desc)  ? $page_desc  : " Nayana Group is a leading architecture and interior design company in Kakinada offering construction, project management, renovation and landscape design services.  ";
+    $page_keys  = isset($page_keys)  ? $page_keys  : " architects in Kakinada, architecture company in Kakinada, interior designers in Kakinada, interior design company Kakinada, construction company Kakinada, project management Kakinada, renovation services Kakinada, landscape design Kakinada, Nayana Group Kakinada, best architects in Kakinada";
+
+    // Auto Detect Canonical URL
+    $protocol = (!empty($_SERVER['HTTPS']) && $_SERVER['HTTPS'] !== 'off') ? "https://" : "http://";
+    $canonical_url = $protocol . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+    ?>
 </head>
 
 <body>
