@@ -2,7 +2,7 @@
   <div class="container">
     <div class="row gy-4">
       <div class="col-lg-3 col-12 col-md-6">
-        <img src="./assets/img/logo.png" class="gallery_section_footer_logo text-center">
+        <img src="./assets/img/logo.png" class="gallery_section_footer_logo text-center" alt="footer page">
         <p class="gallery_section_footer_text">
           We create exceptional spaces that enhance lives and stand the test of time.
         </p>

@@ -149,7 +149,7 @@
 
     <div class="row g-5 align-items-center mb-4">
       <div class="col-lg-6">
-        <img class="carrer_section_about_img" src="assets\img\Career_img1.jpg">
+        <img class="carrer_section_about_img" src="assets\img\Career_img1.jpg" alt="carrer section img">
       </div>
 
       <div class="col-lg-6">
@@ -308,19 +308,19 @@
 
       <div class="row g-3">
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/architecture1.jpg">
+          <img class="carrer_section_life_img" src="assets/img/architecture1.jpg" alt="carrier page">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/Project_manager.png">
+          <img class="carrer_section_life_img" src="assets/img/Project_manager.png" alt="carrier page">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/Interior_1.jpg">
+          <img class="carrer_section_life_img" src="assets/img/Interior_1.jpg" alt="carrier page">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/Interior11.jpg">
+          <img class="carrer_section_life_img" src="assets/img/Interior11.jpg" alt="carrier page">
         </div>
         <div class="col-lg col-md-4 col-6">
-          <img class="carrer_section_life_img" src="assets/img/12.png">
+          <img class="carrer_section_life_img" src="assets/img/12.png" alt="carrier page">
         </div>
       </div>
 

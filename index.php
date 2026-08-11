@@ -11,7 +11,7 @@ include('navbar.php');
     <div class="container">
         <div class="index_section_small_title">DESIGNING SPACES. BUILDING LEGACY.</div>
         <!-- <h1 class="index_section_hero_title">Architecture that Inspires Living.</h1> -->
-        <h1 class="index_section_hero_title">Architecture Interior manager project </h1>
+        <h1 class="index_section_hero_title">Architecture & Interior Design Company in Kakinada </h1>
         <p class="index_section_hero_text">Transforming Visionary Concepts into Iconic Spaces Through Exceptional Design, Strategic Planning, and Flawless Execution.</p>
 
         <a href="projects.php" class="index_section_primary_btn">EXPLORE PROJECTS <i class="bi bi-arrow-right"></i></a>
@@ -88,7 +88,7 @@ include('navbar.php');
         <div class="row g-4">
             <div class="col-lg-4 col-md-6 ">
                 <div class="index_section_project_card">
-                    <img src="./assets/img/architure.png">
+                    <img src="./assets/img/architure.png" alt="architure">
                     <div class="index_section_project_body">
                         <h5>Architecture</h5>
                         <p>kakinada, Andhra Pradesh</p>
@@ -99,7 +99,7 @@ include('navbar.php');
 
             <div class="col-lg-4 col-md-6 ">
                 <div class="index_section_project_card">
-                    <img src="./assets/img/interior.png">
+                    <img src="./assets/img/interior.png" alt="architure">
                     <div class="index_section_project_body">
                         <h5>interior</h5>
                         <p>kakinada, Andhra Pradesh</p>
@@ -110,7 +110,7 @@ include('navbar.php');
 
             <div class="col-lg-4 col-md-6">
                 <div class="index_section_project_card">
-                    <img src="./assets/img/project mangaer.png">
+                    <img src="./assets/img/project mangaer.png" alt="architure">
                     <div class="index_section_project_body">
                         <h5>Project Management</h5>
                         <p>kakinada, Andhra Pradesh</p>

@@ -46,7 +46,7 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="residential villas">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="./assets/img/Resedential.jfif">
+                            <img src="./assets/img/Resedential.jfif" alt="project page">
                             <div class="projects_section_badge">Residential</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
@@ -66,7 +66,7 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="commercial">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="./assets/img/commercial-building.jpg">
+                            <img src="./assets/img/commercial-building.jpg" alt="project page">
                             <div class="projects_section_badge">Commercial</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
@@ -86,7 +86,7 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="interiors">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="./assets/img/Interior_1.jpg">
+                            <img src="./assets/img/Interior_1.jpg" alt="project page">
                             <div class="projects_section_badge">Interiors</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
@@ -106,7 +106,7 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="./assets/img/Villas.jpg">
+                            <img src="./assets/img/Villas.jpg" alt="project page">
                             <div class="projects_section_badge">Villas</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
@@ -126,7 +126,7 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="./assets/img/architecture1.jpg">
+                            <img src="./assets/img/architecture1.jpg" alt="project page">
                             <div class="projects_section_badge">Architecture Design</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>
@@ -146,7 +146,7 @@
                 <div class="col-lg-4 col-md-6 projects_section_item" data-category="landscape">
                     <div class="projects_section_card">
                         <div class="projects_section_img_box">
-                            <img src="./assets/img/Landscape.jfif">
+                            <img src="./assets/img/Landscape.jfif" alt="project page">
                             <div class="projects_section_badge">Landscape</div>
                             <div class="projects_section_arrow"><i class="bi bi-arrow-right"></i></div>
                         </div>

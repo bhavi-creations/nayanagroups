@@ -38,7 +38,7 @@
 
       <div class="col-lg-4 gallery_section_item" data-category="residential villas">
         <div class="gallery_section_card gallery_section_card_large">
-          <img src="./assets/img/Resedential.jfif">
+          <img src="./assets/img/Resedential.jfif" alt="gallery page">
           <div class="gallery_section_overlay">
             <h4>Residential</h4>
             <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
@@ -51,7 +51,7 @@
         <div class="row g-3">
           <div class="col-12 gallery_section_item" data-category="interiors residential">
             <div class="gallery_section_card gallery_section_card_small">
-              <img src="./assets/img/commercial-building.jpg">
+              <img src="./assets/img/commercial-building.jpg" alt="gallery page">
               <div class="gallery_section_overlay">
                 <h4>Commercial</h4>
                 <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
@@ -62,7 +62,7 @@
 
           <div class="col-12 gallery_section_item" data-category="interiors residential">
             <div class="gallery_section_card gallery_section_card_small">
-              <img src="./assets/img/Interior.jpg">
+              <img src="./assets/img/Interior.jpg" alt="gallery page">
               <div class="gallery_section_overlay">
                 <h4>Interiors</h4>
                 <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
@@ -77,7 +77,7 @@
         <div class="row g-3">
           <div class="col-12 gallery_section_item" data-category="commercial">
             <div class="gallery_section_card gallery_section_card_small">
-              <img src="./assets/img/Villas.jpg">
+              <img src="./assets/img/Villas.jpg" alt="gallery page">
               <div class="gallery_section_overlay">
                 <h4>Villas</h4>
                 <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
@@ -88,7 +88,7 @@
 
           <div class="col-12 gallery_section_item" data-category="landscape">
             <div class="gallery_section_card gallery_section_card_small">
-              <img src="./assets/img/Landscape.jfif">
+              <img src="./assets/img/Landscape.jfif" alt="gallery page">
               <div class="gallery_section_overlay">
                 <h4>Landscape</h4>
                 <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
@@ -101,7 +101,7 @@
 
       <div class="col-lg-4 gallery_section_item" data-category="commercial interiors">
         <div class="gallery_section_card gallery_section_card_small">
-           <img src="./assets/img/Residential.jpg">
+           <img src="./assets/img/Residential.jpg" alt="gallery page">
            <div class="gallery_section_overlay">
               <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
            </div>
@@ -116,7 +116,7 @@
 
       <div class="col-lg-4 gallery_section_item" data-category="interiors residential">
         <div class="gallery_section_card gallery_section_card_small">
-          <img src="./assets/img/Commercial_building.jpg">
+          <img src="./assets/img/Commercial_building.jpg"   alt="gallery page">
            <div class="gallery_section_overlay">
               <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
            </div>
@@ -134,7 +134,7 @@
 
       <div class="col-lg-4 gallery_section_item" data-category="residential villas">
         <div class="gallery_section_card gallery_section_card_small">
-          <img src="./assets/img/Interior1.jpg">
+          <img src="./assets/img/Interior1.jpg"  alt="gallery page">
           <div class="gallery_section_overlay">
             <h4>Interiors</h4>
             <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
@@ -145,7 +145,7 @@
 
       <div class="col-lg-4 gallery_section_item" data-category="interiors">
         <div class="gallery_section_card gallery_section_card_small">
-          <img src="./assets/img/Villas1.jpg">
+          <img src="./assets/img/Villas1.jpg" alt="gallery page">
           <div class="gallery_section_overlay">
             <h4>Villas</h4>
             <p><i class="bi bi-geo-alt"></i> kakinada, India</p>
@@ -156,7 +156,7 @@
 
       <div class="col-lg-8 gallery_section_item" data-category="residential villas landscape">
         <div class="gallery_section_card gallery_section_card_wide">
-          <img src="./assets/img/Landscape1.jpg">
+          <img src="./assets/img/Landscape1.jpg" alt="gallery page">
           <div class="gallery_section_overlay">
             <h4>Landscape</h4>
             <p><i class="bi bi-geo-alt"></i> kakinada, India</p>

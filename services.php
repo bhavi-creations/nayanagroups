@@ -29,7 +29,7 @@
         <div class="row g-4">
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/architure.png">
+                    <img class="service_section_card_img" src="./assets/img/architure.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-bank"></i></div>
                         <div class="service_section_number">01</div>
@@ -42,7 +42,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/inteterior.png">
+                    <img class="service_section_card_img" src="./assets/img/inteterior.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-lamp"></i></div>
                         <div class="service_section_number">02</div>
@@ -55,7 +55,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=800&q=80">
+                    <img class="service_section_card_img" src="https://images.unsplash.com/photo-1541888946425-d81bb19240f5?auto=format&fit=crop&w=800&q=80" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-building"></i></div>
                         <div class="service_section_number">03</div>
@@ -69,7 +69,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Project_Management.jpg">
+                    <img class="service_section_card_img" src="./assets/img/Project_Management.jpg" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"></div>
                         <div class="service_section_number">04</div>
@@ -83,7 +83,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Sustainability-consulting.png">
+                    <img class="service_section_card_img" src="./assets/img/Sustainability-consulting.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-tools"></i></div>
                         <div class="service_section_number">05</div>
@@ -96,7 +96,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Project-planning.png">
+                    <img class="service_section_card_img" src="./assets/img/Project-planning.png"  alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
                         <div class="service_section_number">06</div>
@@ -115,7 +115,7 @@
 
  <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Design-coordination.png">
+                    <img class="service_section_card_img" src="./assets/img/Design-coordination.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-lamp"></i></div>
                         <div class="service_section_number">07</div>
@@ -128,7 +128,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Permits-and-Approvals.png">
+                    <img class="service_section_card_img" src="./assets/img/Permits-and-Approvals.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-building"></i></div>
                         <div class="service_section_number">08</div>
@@ -141,7 +141,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Construction-Oversight.png">
+                    <img class="service_section_card_img" src="./assets/img/Construction-Oversight.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-person-workspace"></i></div>
                         <div class="service_section_number">09</div>
@@ -154,7 +154,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Budget-Management.png">
+                    <img class="service_section_card_img" src="./assets/img/Budget-Management.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-tools"></i></div>
                         <div class="service_section_number">10</div>
@@ -167,7 +167,7 @@
 
             <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Post-Construction.png">
+                    <img class="service_section_card_img" src="./assets/img/Post-Construction.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
                         <div class="service_section_number">11</div>
@@ -180,7 +180,7 @@
 
              <div class="col-lg-4 col-md-6">
                 <div class="service_section_card">
-                    <img class="service_section_card_img" src="./assets/img/Communication-img.png">
+                    <img class="service_section_card_img" src="./assets/img/Communication-img.png" alt="service page">
                     <div class="service_section_card_body">
                         <div class="service_section_icon"><i class="bi bi-flower1"></i></div>
                         <div class="service_section_number">12</div>
