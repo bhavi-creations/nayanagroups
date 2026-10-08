@@ -20,13 +20,13 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         $mail->isSMTP();
         $mail->Host       = 'smtp.gmail.com';
         $mail->SMTPAuth   = true;
-        $mail->Username   = 'manimalladi05@gmail.com';
-        $mail->Password   = 'cvarqcchfjpawxvo';
+        $mail->Username   = 'sairampachipala00@gmail.com';
+        $mail->Password   = 'hetpnbxyctpodhkv';
         $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
         $mail->Port       = 587;
 
-        $mail->setFrom('manimalladi05@gmail.com', 'Nayana Group');
-        $mail->addAddress('manimalladi05@gmail.com', 'Nayana Group');
+        $mail->setFrom('sairampachipala00@gmail.com', 'Nayana Group');
+        $mail->addAddress('sairampachipala00@gmail.com', 'Nayana Group');
 
         $mail->addReplyTo($contactemail, $contactname);
 

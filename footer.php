@@ -7,10 +7,10 @@
           We create exceptional spaces that enhance lives and stand the test of time.
         </p>
         <div class="gallery_section_social">
-          <a href="#"><i class="bi bi-facebook"></i></a>
-          <a href="#"><i class="bi bi-instagram"></i></a>
-          <a href="#"><i class="bi bi-linkedin"></i></a>
-          <a href="#"><i class="bi bi-pinterest"></i></a>
+          <a href="https://www.facebook.com/people/Nayana-groups/100089262974955/" target="_blank"><i class="bi bi-facebook"></i></a>
+          <a href="https://www.instagram.com/nayana_groups/" target="_blank"><i class="bi bi-instagram"></i></a>
+          <a href=""><i class="bi bi-linkedin"></i></a>
+          <a href=""><i class="bi bi-pinterest"></i></a>
         </div>
       </div>
 

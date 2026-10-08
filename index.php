@@ -73,7 +73,7 @@ include('navbar.php');
 
                
                 
-                <h2 class="index_section_title">Spaces that<br>define excellence<br>and innovation.</h2>
+                <h2 class="index_section_title">Spaces that define excellence and innovation.</h2>
                 <!-- <h2 class="index_section_title">Spaces that<br>speak for<br>themselves.</h2> -->
             </div>
             <a href="projects.php" class="index_section_view_btn d-none d-md-inline-block">VIEW ALL PROJECTS <i class="bi bi-arrow-right ms-2"></i></a>

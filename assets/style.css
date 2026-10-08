@@ -20,7 +20,8 @@
         .index_section_navbar {
             background: #050708;
             padding: 22px 0;
-            border-bottom: 1px solid rgba(255, 255, 255, .04);
+            /* border-bottom: 1px solid rgba(255, 255, 255, .04); */
+            border-bottom: 2px solid #efb58e;
         }
 
         .index_section_logo {
@@ -176,7 +177,7 @@
         .index_section_stat_number {
             font-family: 'Playfair Display', serif;
             color: var(--index_section_gold);
-            font-size: 42px;
+            font-size: 30px;
             line-height: 1;
         }
 
@@ -187,14 +188,14 @@
         }
 
         .index_section_area {
-            padding: 85px 0;
+            padding: 30px 0;
             border-bottom: 1px solid rgba(255, 255, 255, .12);
             background: radial-gradient(circle at left, rgba(255, 255, 255, .04), transparent 35%), #080c0e;
         }
 
         .index_section_title {
             font-family: 'Playfair Display', serif;
-            font-size: 40px;
+            font-size: 24px;
             line-height: 1.2;
             margin-top: 25px;
         }
@@ -564,14 +565,14 @@
     .about_section_counter_box h2{
       font-family:'Playfair Display',serif;
       color:var(--index_section_gold);
-      font-size:54px;
+      font-size:35px;
       line-height:1;
       margin-bottom:12px;
     }
 
     .about_section_counter_box p{
       color:#fff;
-      font-size:14px;
+      font-size:13px;
       margin:0;
     }
 
@@ -579,7 +580,7 @@
     .about_section_journey{
       padding:55px 0 65px;
       background:radial-gradient(circle at center,rgba(255,255,255,.04),transparent 45%),#080c0e;
-      border-bottom:1px solid rgba(255,255,255,.12);
+      border-bottom: 1px solid #efb58e;
     }
 
     .about_section_journey_title{
@@ -744,7 +745,7 @@
     }
 
     @media(max-width:575px){
-      .about_section_title{font-size:34px;}
+      .about_section_title{font-size:28px;}
       .about_section_center_title{font-size:29px;}
       .about_section_journey_title{font-size:28px;}
     }
@@ -902,7 +903,7 @@
 
     .service_section_card h3{
       font-family:'Playfair Display',serif;
-      font-size:28px;
+      font-size:21px;
       margin:12px 0 12px;
     }
 
@@ -956,13 +957,13 @@
     .service_section_counter_box h2{
       font-family:'Playfair Display',serif;
       color:var(--index_section_gold);
-      font-size:42px;
+      font-size:30px;
       margin:0;
     }
 
     .service_section_counter_box p{
       color:#fff;
-      font-size:13px;
+      font-size:10px;
       margin:0;
     }
 
@@ -1028,7 +1029,7 @@
         padding:28px;
       }
       .service_section_cta_title{
-        font-size:32px;
+        font-size:22px;
       }
     }
 
@@ -1287,7 +1288,8 @@
     .gallery_section_footer{
       background:#070b0d;
       padding:40px 0 20px;
-      border-top:1px solid rgba(255,255,255,.12);
+      /* border-top:1px solid rgba(255,255,255,.12); */
+      border-top:1px solid #efb58e;
     }
 
     .gallery_section_footer_logo{
@@ -1392,7 +1394,8 @@
     }
 
     .gallery_section_copyright{
-      border-top:1px solid rgba(255,255,255,.1);
+      /* border-top:1px solid rgba(255,255,255,.1); */
+      border-top:1px solid #efb58e;
       margin-top:30px;
       padding-top:18px;
       color:var(--index_section_muted);
@@ -3548,7 +3551,7 @@
     /* About content alignment */
     .about_section_hero_content{
         padding:45px 35px !important;
-        text-align:center;
+        /* text-align:center; */
     }
 
     .about_section_title{
@@ -3682,7 +3685,9 @@
         padding:25px 20px;
         min-height:280px;
         background:#111;
-        border:1px solid rgba(255,255,255,0.08);
+        /* border:1px solid rgba(255,255,255,0.08); */
+        border: 2px solid #efb58e;
+
         border-radius:14px;
     }
 
