@@ -12,10 +12,10 @@ include('navbar.php');
         <a href="services.php" class="index_section_outline_btn">OUR SERVICES</a>
     </div>
 
-    <div class="index_section_slider_arrows">
+    <!-- <div class="index_section_slider_arrows">
         <div class="index_section_arrow"><i class="bi bi-arrow-left"></i></div>
         <div class="index_section_arrow"><i class="bi bi-arrow-right"></i></div>
-    </div>
+    </div> -->
 </section>
 
 
