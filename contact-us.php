@@ -7,8 +7,8 @@
     <div class="contact_section_small_title">Contact Us</div>
 
     <h1 class="contact_section_hero_title">
-      Bring<br>
-      <span>Your Vision<br>to Life</span>
+      Bring
+      <span>Your Vision to Life</span>
     </h1>
 
     <p class="contact_section_hero_text">
